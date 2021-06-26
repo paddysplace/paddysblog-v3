@@ -162,4 +162,3 @@ fonts:
 # gem "rails"
 gem "minimal-mistakes-jekyll"
 gem "alembic-jekyll-theme"
-
