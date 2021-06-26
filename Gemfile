@@ -162,3 +162,6 @@ fonts:
 # gem "rails"
 gem "minimal-mistakes-jekyll"
 gem "alembic-jekyll-theme"
+
+source "https://rubygems.org"
+gem 'github-pages'
