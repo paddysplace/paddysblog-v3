@@ -40,5 +40,3 @@ fields:
     schema:
       format: markdown
   label: post
-pages:
-- _posts/first-post.md
