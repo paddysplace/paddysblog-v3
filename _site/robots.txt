@@ -1,1 +1,1 @@
-Sitemap: https://alembic.darn.es/sitemap.xml
+Sitemap: /sitemap.xml
