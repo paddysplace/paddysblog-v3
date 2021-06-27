@@ -31,3 +31,5 @@ fields:
   config:
     required: false
   label: feature_image
+pages:
+- _posts/first-post.md
