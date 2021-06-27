@@ -32,4 +32,4 @@ fields:
     required: false
   label: feature_image
 pages:
-- _posts/first-test.md
+- _posts/2021-06-26-first-test.md
