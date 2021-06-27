@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "thisispaddys.blog" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "https://www.freeiconspng.com/uploads/black-cat-png-22.png" # Site logo, also used in jekyll-seo-tag
 description: ""
 url: "" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -131,7 +131,7 @@ navigation_header:
 
 
 navigation_footer:
-- title: 
+- title: thisispaddys.space
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/paddysplace
