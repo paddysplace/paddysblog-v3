@@ -1,0 +1,35 @@
+---
+label: blog post
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: categories
+  type: text
+  config:
+    required: false
+  label: Categories
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: YYYY/MM/DD
+    time_format: 
+    display_utc: false
+- name: feature_text
+  type: text
+  config:
+    required: false
+  label: feature_text
+- name: feature_image
+  type: text
+  config:
+    required: false
+  label: feature_image
+pages:
+- _posts/2021-06-26-first-test.md
