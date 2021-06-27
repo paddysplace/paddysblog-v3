@@ -31,5 +31,14 @@ fields:
   config:
     required: false
   label: feature_image
+- name: post
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: post
 pages:
 - _posts/first-post.md
