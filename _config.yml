@@ -68,8 +68,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://res.cloudinary.com/paddysplace/image/upload/c_scale,h_600/v1624789513/blog/blogbanner3.jpg"
-
+    feature_image: https://res.cloudinary.com/paddysplace/image/upload/c_scale,e_brightness:80,h_600/v1624789513/blog/blogbanner3.jpg
 # 6. Jekyll collections settings
 defaults:
   -

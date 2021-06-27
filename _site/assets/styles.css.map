@@ -14,8 +14,7 @@
 		"_sass/sassline-base/_typography.scss",
 		"_sass/_syntax.scss",
 		"_sass/_flex.scss",
-		"_sass/_theme.scss",
-		"_assets/style.css"
+		"_sass/_theme.scss"
 	],
 	"sourcesContent": [
 		"@import \"alembic\";\n",
