@@ -1,4 +1,16 @@
 ---
-title: "thisispaddys.blog" 
+title: "Latest Post" 
+feature_text: |
+      thisispaddys.blog
 feature_image: "https://res.cloudinary.com/paddysplace/image/upload/c_scale,h_550/v1624779833/blog/blogbanner2.jpg"
 ---
+     <h2> <a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <ul>
+    {% for post in site.posts limit:1 %}
+      {{ post.date | date_to_string }}
+<br>
+     <h2> {{ post.title }}</h2>
+      <p>{{post.content}}</p>
+      
+    {% endfor %}
+  </ul>
