@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark'
   gem 'jekyll-include-cache'
   gem 'jemoji'
+  gem 'jekyll-admin'
 end
 
 gem "jekyll"
