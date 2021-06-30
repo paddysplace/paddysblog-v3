@@ -1,10 +1,9 @@
 ---
-title: There Comes A Time To Stop Testing
+title: Third Test
 categories:
 - Test
-date: '2021-06-30 15:00:00 +0000'
+date: '2021-06-30 15:45:00 +0000'
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
-published: true
 ---
 
 And I really wish it was now. Every app I tried has worked a little bit. So. That time is now. 
