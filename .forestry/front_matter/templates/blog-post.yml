@@ -19,18 +19,14 @@ fields:
   config:
     required: false
     date_format: YYYY/MM/DD
-    time_format: 
+    time_format: hh:mm:ss
     display_utc: false
-- name: feature_text
-  type: text
-  config:
-    required: false
-  label: feature_text
+    export_format: YYYY-MM-DD
 - name: feature_image
   type: text
   config:
     required: false
   label: feature_image
+  default: https://picsum.photos/1400/600?grayscale&blur=2
 pages:
 - _posts/2021-06-26-first-test.md
-- _posts/first-test-copy.md
