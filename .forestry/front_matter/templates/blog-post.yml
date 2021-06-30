@@ -20,7 +20,7 @@ fields:
     required: false
     date_format: YYYY/MM/DD
     time_format: hh:mm
-    display_utc: false
+    display_utc: true
     export_format: YYYY-MM-DD hh:mm
 - name: feature_image
   type: text
