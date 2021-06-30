@@ -2,7 +2,7 @@
 title: There Comes A Time To Stop Testing
 categories:
 - Test
-date: '2021-06-26 23:00:00 +0000'
+date: '2021-06-30 15:00:00 +0000'
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 ---
 
