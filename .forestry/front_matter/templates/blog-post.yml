@@ -30,3 +30,4 @@ fields:
   default: https://picsum.photos/1400/600?grayscale&blur=2
 pages:
 - _posts/2021-06-26-first-test.md
+- _posts/lets-try-again.md
