@@ -1,9 +1,10 @@
 ---
-title: First Test-(copy)
+title: 'Ok. I lied. '
 categories:
 - Test
-date: 2021-06-26 23:00:00 +0000
+date: 2021-06-29 23:00:00 +0000
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
+feature_text: ''
 
 ---
 Ok, this is the first test post. Hopefully I won't have to do this too often,
