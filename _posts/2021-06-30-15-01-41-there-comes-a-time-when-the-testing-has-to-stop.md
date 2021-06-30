@@ -1,7 +1,11 @@
 ---
-created: 2021-06-30T15:01:41+01:00
-modified: 2021-06-30T15:08:29+01:00
+title: There Comes A Time To Stop Testing
+categories:
+- Test
+date: '2021-06-26 23:00:00 +0000'
+feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 ---
+
 And I really wish it was now. Every app I tried has worked a little bit. So. That time is now. 
 
 I don't **need** to have my posts published immediately. I'm not breaking any news. There's no exclusives or scoops to be put online the soonest possible second. 
