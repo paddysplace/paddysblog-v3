@@ -67,6 +67,8 @@ GEM
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
+    jekyll-menus (0.6.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
@@ -144,6 +146,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-include-cache
   jekyll-mentions
+  jekyll-menus (~> 0.6.1)
   jekyll-paginate
   jekyll-redirect-from
   jekyll-seo-tag

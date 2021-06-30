@@ -17,6 +17,7 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jemoji'
   gem 'jekyll-admin'
+  gem 'jekyll-menus', '~> 0.6.1'
 end
 
 gem "jekyll"

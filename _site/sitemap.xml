@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4002/test/2021/06/27/first-test/</loc>
+<loc>/test/2021/06/27/first-test/</loc>
 <lastmod>2021-06-27T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4002/categories/</loc>
+<loc>/test/2021/06/30/lets-try-again/</loc>
+<lastmod>2021-06-30T08:19:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4002/blog/</loc>
+<loc>/categories/</loc>
 </url>
 <url>
-<loc>http://localhost:4002/</loc>
+<loc>/blog/</loc>
 </url>
 <url>
-<loc>http://localhost:4002/search/</loc>
+<loc>/</loc>
+</url>
+<url>
+<loc>/search/</loc>
 </url>
 </urlset>
