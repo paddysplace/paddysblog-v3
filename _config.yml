@@ -92,7 +92,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "thisispaddys.blog" # Site name or title, also used in jekyll-seo-tag
+title: "blog.thisispaddys.space" # Site name or title, also used in jekyll-seo-tag
 logo: "https://www.freeiconspng.com/uploads/black-cat-png-22.png" # Site logo, also used in jekyll-seo-tag
 description: ""
 url: "" # Site url, also used in jekyll-seo-tag
