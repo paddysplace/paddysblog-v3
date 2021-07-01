@@ -2,7 +2,7 @@
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 title: The testing is over
 categories: Personal
-date: 2021-07-03 04:01
+date: 2021-07-01 04:01
 
 ---
 Well. Here I go. A blog about my thoughts and ideas. I don't have many thoughts. Or ideas. I feel like I just float through life being buffeted by whatever comes my way.
