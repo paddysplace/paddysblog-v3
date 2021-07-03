@@ -1,8 +1,8 @@
-const version = '20210702231332';
+const version = '20210703103208';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/personal/2021/07/01/the-testing-is-over/","/test/2021/06/30/lets-try-again/","/test/2021/06/27/first-test/","/categories/","/feed.xml","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/assets/styles.css.map","https://www.freeiconspng.com/uploads/black-cat-png-22.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/caturday/2021/07/03/its-caturday/","/personal/2021/07/01/the-testing-is-over/","/test/2021/06/30/lets-try-again/","/test/2021/06/27/first-test/","/categories/","/feed.xml","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/black-cat-png-22.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

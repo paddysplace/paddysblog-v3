@@ -4,9 +4,9 @@
         <title>blog.thisispaddys.space</title>
         <description></description>
         <link>/</link>
-        <atom:link href="/feed.rbloggers.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Jul 2021 23:13:32 +0100</pubDate>
-        <lastBuildDate>Fri, 02 Jul 2021 23:13:32 +0100</lastBuildDate>
+        <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 03 Jul 2021 10:32:08 +0100</pubDate>
+        <lastBuildDate>Sat, 03 Jul 2021 10:32:08 +0100</lastBuildDate>
         <generator>Jekyll v4.2.0</generator>
         
     </channel>
