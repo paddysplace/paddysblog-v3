@@ -44,6 +44,13 @@
   },
   
   {
+    "title": "contact",
+    "excerpt": "\n",
+    "content": "\n    \n      Your Name:    \n    \n    \n      Your Email: \n    \n    \n    \n      Message: \n    \n    \n      Send\n    \n  \n\n",
+    "url": "/contact/"
+  },
+  
+  {
     "title": "Latest Post",
     "excerpt": "\n",
     "content": " &lt;h2&gt; &lt;a href=\"{{ post.url }}\"&gt;{{ post.title }}&lt;/a&gt;&lt;/h2&gt;\n\n\n    {% for post in site.posts limit:1 %}\n      {{ post.date | date_to_string }}\n\n      {{ post.title }}\n      {{post.content}}\n      \n    {% endfor %}\n  \n",
