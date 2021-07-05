@@ -2,7 +2,7 @@
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 title: I don't like Mondays
 categories: Personal
-date: 2021-07-05 08:00
+date: 2021-07-05 07:00
 
 ---
 It's that feeling of "here we go again" We're at the top of the rollercoaster. Just bracing for the sudden stomach-churning descent. Which is great if you like the exhilaration of the ride. I've always hated rollercoasters. Never been on one. Never wanted to. Never will. Rollercoasters are like life. I never asked to be on the damn thing. But here I am, going through the same stomach-churning experience. Round and round. Up and down. Feeling sicker and sicker as time goes by.
