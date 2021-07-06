@@ -3,10 +3,10 @@
     <channel>
         <title>blog.thisispaddys.space</title>
         <description></description>
-        <link>/</link>
+        <link>http://blog.thisispaddys.space</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Jul 2021 17:49:04 +0100</pubDate>
-        <lastBuildDate>Tue, 06 Jul 2021 17:49:04 +0100</lastBuildDate>
+        <pubDate>Tue, 06 Jul 2021 18:02:14 +0100</pubDate>
+        <lastBuildDate>Tue, 06 Jul 2021 18:02:14 +0100</lastBuildDate>
         <generator>Jekyll v4.2.0</generator>
         
     </channel>
