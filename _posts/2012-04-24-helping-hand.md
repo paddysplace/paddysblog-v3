@@ -3,7 +3,7 @@ layout: post
 title: A Helping hand
 date: '2012-04-24T17:05:00.001+01:00'
 author: Paddy
-tags: website projects
+categories: website projects
 modified_time: '2012-04-24T17:05:27.103+01:00'
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 ---
