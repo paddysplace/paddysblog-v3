@@ -1,18 +1,13 @@
-\-\-- layout: post title: Connecticut bound date:
-\'2011-11-03T10:30:00.000-03:00\' author: Paddy tags: modified\_time:
-\'2011-11-03T20:15:34.533-03:00\' thumbnail:
-http://lh6.ggpht.com/-ZRQgYsJ4C8U/TrMgRN3-DPI/AAAAAAAACRc/TbW1TQVVF80/s72-c/IMAG0554.png
-blogger\_id:
-tag:blogger.com,1999:blog-5715804192922968271.post-7276063179321422568
-blogger\_orig\_url:
-https://scunthorpe-to-newyork.blogspot.com/2011/11/connecticut-bound.html
-\-\--
+--- 
+layout: post 
+title: Connecticut bound 
+date: '2011-11-03T10:30:00.000-03:00' 
+author: Paddy 
+categories: NewYork
+---
 
-<div>
 
 Sat on the train heading to New Haven.
 
-\
-![](http://lh6.ggpht.com/-ZRQgYsJ4C8U/TrMgRN3-DPI/AAAAAAAACRc/TbW1TQVVF80/IMAG0554.png)
 
-</div>
+![](http://lh6.ggpht.com/-ZRQgYsJ4C8U/TrMgRN3-DPI/AAAAAAAACRc/TbW1TQVVF80/IMAG0554.png)
