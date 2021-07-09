@@ -1,8 +1,7 @@
 --- 
 layout: post 
 title: Countdown! 
-date:
-'2011-10-19T11:25:00.001-03:00' 
+date: 2011-10-19T11:25:00.001-03:00
 author: Paddy 
 categories: NewYork
 ---

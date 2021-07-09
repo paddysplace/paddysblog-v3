@@ -1,10 +1,9 @@
 ---
 layout: post
 title: The blog is dead! Long live the blog!
-date: '2009-09-28T18:45:00.003+01:00'
+date: 2009-09-28T18:45:00.003+01:00
 author: Paddy
 categories: blog-news
-modified_time: '2012-04-24T16:59:26.603+01:00'
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 ---
 
