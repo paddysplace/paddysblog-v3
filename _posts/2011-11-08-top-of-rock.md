@@ -1,22 +1,15 @@
-\-\-- layout: post title: Top of the rock! date:
-\'2011-11-08T18:21:00.001-04:00\' author: Paddy tags: modified\_time:
-\'2011-11-08T18:21:04.155-04:00\' thumbnail:
-http://lh5.ggpht.com/-UXN9SUuR3fE/TrmrTrAJHHI/AAAAAAAACT0/Q1z91k9inPk/s72-c/IMAG0598.png
-blogger\_id:
-tag:blogger.com,1999:blog-5715804192922968271.post-782228948658176216
-blogger\_orig\_url:
-https://scunthorpe-to-newyork.blogspot.com/2011/11/top-of-rock.html
-\-\--
-
-<div>
-
-Just a quick post as we\'re getting ready to go see a Broadway show. Oh
+--- 
+layout: post 
+title: Top of the rock! 
+date: '2011-11-08T18:21:00.001-04:00' 
+author: Paddy
+categories: NewYork
+---
+Just a quick post as we're getting ready to go see a Broadway show. Oh
 yes dahlings! Another busy day walking round Central Park. We saw some
 TV show being filmed. Nobody seemed to know which one tho! And then
 spent several hours! at the top of the Rockefeller Centre. A slightly
 hazy view but another cloudless, sunny warm day in New York.
 
-\
-![](http://lh5.ggpht.com/-UXN9SUuR3fE/TrmrTrAJHHI/AAAAAAAACT0/Q1z91k9inPk/IMAG0598.png)
 
-</div>
+![](http://lh5.ggpht.com/-UXN9SUuR3fE/TrmrTrAJHHI/AAAAAAAACT0/Q1z91k9inPk/IMAG0598.png)
