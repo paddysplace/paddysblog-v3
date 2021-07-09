@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Breakfast time 
-date: '2011-11-03T07:37:00.001-03:00' 
+date: 2011-11-03T07:37:00.001-03:00 
 author: Paddy 
 categories: NewYork
 ---
