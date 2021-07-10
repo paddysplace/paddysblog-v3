@@ -3,7 +3,7 @@ layout: post
 title: Goodbye little girl
 date: '2008-10-10T17:54:00.000+01:00'
 author: Paddy
-categories: pets rats
+categories: rats
 modified_time: '2008-10-10T18:02:30.993+01:00'
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 ---
