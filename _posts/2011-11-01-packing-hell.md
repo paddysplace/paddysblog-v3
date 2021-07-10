@@ -1,8 +1,7 @@
 --- 
 layout: post 
 title: Packing hell 
-date:
-'2011-11-01T17:21:00.001-03:00' 
+date: 2011-11-01T17:21:00.001-03:00
 author: Paddy 
 categories: NewYork
 ---

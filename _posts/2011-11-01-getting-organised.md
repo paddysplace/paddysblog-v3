@@ -1,8 +1,7 @@
 --- 
 layout: post 
 title: Getting organised 
-date:
-'2011-11-01T10:59:00.001-03:00' 
+date: 2011-11-01T10:59:00.001-03:00
 author: Paddy 
 categories: NewYork
 ---
