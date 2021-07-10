@@ -5,6 +5,6 @@ categories: Caturday
 date: 2021-07-10 01:00
 
 ---
-![](/v1625927876/IMG_20210420_074203_2_esvuhs.jpg)
+![](https://res.cloudinary.com/paddysplace/image/upload/v1625928421/blog/Caturday/SleepyG.jpg)
 
-Little G knows the benefits of a relaxing Caturday.
+Little G knows the relaxing benefits of a Caturday afternoon cat 
