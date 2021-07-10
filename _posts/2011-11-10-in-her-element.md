@@ -20,6 +20,6 @@ around Times Square we found the M&M and Hershey's stores. Zara was in
 chocolate heaven.
 
 
-![](http://lh3.ggpht.com/-FL9CW3PvETw/TrvHYuoheDI/AAAAAAAACT8/RCESr5UJQdQ/IMAG0608.png)
-![](http://lh3.ggpht.com/-1N77h6CuN7Q/TrvHachiftI/AAAAAAAACUA/RimL1xp6koE/IMAG0607.png)
+![](https://lh3.ggpht.com/-FL9CW3PvETw/TrvHYuoheDI/AAAAAAAACT8/RCESr5UJQdQ/IMAG0608.png)
+![](https://lh3.ggpht.com/-1N77h6CuN7Q/TrvHachiftI/AAAAAAAACUA/RimL1xp6koE/IMAG0607.png)
 

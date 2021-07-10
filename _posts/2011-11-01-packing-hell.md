@@ -6,4 +6,4 @@ date:
 author: Paddy 
 categories: NewYork
 ---
-![](http://lh5.ggpht.com/-FOFrY9HUwwM/TrBdKAGo3ZI/AAAAAAAACO8/dnzPyOETvWM/IMAG0504.png)
+![](https://lh5.ggpht.com/-FOFrY9HUwwM/TrBdKAGo3ZI/AAAAAAAACO8/dnzPyOETvWM/IMAG0504.png)

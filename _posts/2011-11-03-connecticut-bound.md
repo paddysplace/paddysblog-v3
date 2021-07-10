@@ -10,4 +10,4 @@ categories: NewYork
 Sat on the train heading to New Haven.
 
 
-![](http://lh6.ggpht.com/-ZRQgYsJ4C8U/TrMgRN3-DPI/AAAAAAAACRc/TbW1TQVVF80/IMAG0554.png)
+![](https://lh6.ggpht.com/-ZRQgYsJ4C8U/TrMgRN3-DPI/AAAAAAAACRc/TbW1TQVVF80/IMAG0554.png)

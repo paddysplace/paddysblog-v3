@@ -11,5 +11,5 @@ With less than 24 hours until we're in the air Zara's organisational
 skills go into overdrive!
 
 
-![](http://lh6.ggpht.com/-9LKqcQkjFnI/TrBduYqg8JI/AAAAAAAACPE/_uNDcZxlVSY/photo-1.png)
+![](https://lh6.ggpht.com/-9LKqcQkjFnI/TrBduYqg8JI/AAAAAAAACPE/_uNDcZxlVSY/photo-1.png)
 

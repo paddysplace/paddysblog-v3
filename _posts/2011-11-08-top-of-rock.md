@@ -12,4 +12,4 @@ spent several hours! at the top of the Rockefeller Centre. A slightly
 hazy view but another cloudless, sunny warm day in New York.
 
 
-![](http://lh5.ggpht.com/-UXN9SUuR3fE/TrmrTrAJHHI/AAAAAAAACT0/Q1z91k9inPk/IMAG0598.png)
+![](https://lh5.ggpht.com/-UXN9SUuR3fE/TrmrTrAJHHI/AAAAAAAACT0/Q1z91k9inPk/IMAG0598.png)
