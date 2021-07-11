@@ -120,7 +120,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: https://www.thisispaddys.space
 - title: Blog
   url: /blog/
 - title: Categories
@@ -128,12 +128,11 @@ navigation_header:
 - title: Search
   url: /search/
 
-
 navigation_footer:
 - title: blog.thisispaddys.space
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/thiispaddys
+  Twitter: https://twitter.com/thisispaddys
   GitHub: https://github.com/paddysplace
   Instagram: https://www.instagram.com/thisispaddys
   link: https://blog.thisispaddys.space
