@@ -6,7 +6,7 @@ date: 2021-07-11 01:00
 
 ---
    
-![https://res.cloudinary.com/paddysplace/image/upload/v1626000542/running/fitbitshare_11072021.png
+![](https://res.cloudinary.com/paddysplace/image/upload/v1626000542/running/fitbitshare_11072021.png)
 
 **Week 3 - Run 1**
 
