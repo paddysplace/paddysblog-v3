@@ -1,8 +1,8 @@
-const version = '20210713073617';
+const version = '20210713171149';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/running/c25k/2021/07/11/keep-on-running/","/caturday/2021/07/10/it-s-caturday/","/personal/2021/07/08/why-am-i-doing-this/","/personal/2021/07/06/i-hate-time/","/personal/2021/07/05/i-don-t-like-mondays/","/caturday/2021/07/03/its-caturday/","/personal/2021/07/01/the-testing-is-over/","/test/2021/06/30/lets-try-again/","/test/2021/06/27/first-test/","/categories/","/contact/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/page2/","/blog/page3/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/black-cat-png-22.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/running/c25k/2021/07/11/keep-on-running/","/caturday/2021/07/10/it-s-caturday/","/personal/2021/07/08/why-am-i-doing-this/","/personal/2021/07/06/i-hate-time/","/personal/2021/07/05/i-don-t-like-mondays/","/caturday/2021/07/03/its-caturday/","/personal/2021/07/01/the-testing-is-over/","/test/2021/06/30/lets-try-again/","/test/2021/06/27/first-test/","/categories/","/contact/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/page2/","/blog/page3/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/home-page-icon-0.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

@@ -93,8 +93,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "blog.thisispaddys.space" # Site name or title, also used in jekyll-seo-tag
-logo: "https://www.freeiconspng.com/uploads/black-cat-png-22.png" # Site logo, also used in jekyll-seo-tag
-description: ""
+logo: "https://www.freeiconspng.com/uploads/home-page-icon-0.png" # Site logo, also used in jekyll-seo-tag
+description: "Home"
 url: "" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "paddy@thisispaddys.space"
@@ -119,15 +119,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
+- title: paddys.space
   url: https://www.thisispaddys.space
-- title: Blog
+- title: blog
   url: /blog/
-- title: Categories
+- title: categories
   url: /categories/
-- title: Search
+- title: search
   url: /search/
-- title: Archives
+- title: archives
   url: https://www.archives.thisispaddys.space
 
 navigation_footer:
