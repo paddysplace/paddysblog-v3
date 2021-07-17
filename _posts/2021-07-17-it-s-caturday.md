@@ -7,4 +7,4 @@ date: 2021-07-17 01:00
 ---
 When the weather gets this hot it's best to just put your paws up and relax.
 
-![](/v1626540014/paws_veqwlw.jpg)
+![sleeping cat paws](/v1626540014/paws_veqwlw.jpg "paws")
