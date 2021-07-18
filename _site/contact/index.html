@@ -2,6 +2,15 @@
 <html lang="en-GB">
 
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-844J9WXHSQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-844J9WXHSQ');
+</script>
     <!-- General meta -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -107,6 +116,18 @@
 
     <!-- Overwrite this file with code you want before the closing head tag -->
 
+    <!-- MailerLite Universal -->
+<script>
+  (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+  var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+  f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+  var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+  _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+  
+  var ml_account = ml('accounts', '3276997', 's1h6m5g1k8', 'load');
+  </script>
+  <!-- End MailerLite Universal -->
+  
   </head>
 
   <body class="layout-page  contact">
@@ -181,6 +202,13 @@
         <a href="https://www.archives.thisispaddys.space">archives</a>
       </li>
     
+
+      
+
+      <li class="item  item--nav  item--current">
+        <a href="/contact/">contact me</a>
+      </li>
+    
   </ul>
   <button class="button  button--nav" aria-label="Menu toggle">
     <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
@@ -247,26 +275,19 @@
 
     <form name="contact" method="POST" data-netlify="true">
     <p>
-      <label>Your Name: <input type="text" name="name" /></label>   
+      <input type="text" placeholder="your name" name="name" />   
     </p>
     <p>
-      <label>Your Email: <input type="email" name="email" /></label>
+      <input type="email" placeholder="your email" name="email" />
     </p>
     
     <p>
-      <label>Message: <textarea name="message"></textarea></label>
+      <textarea placeholder="type your message" name="message"></textarea>
     </p>
     <p>
       <button type="submit">Send</button>
     </p>
-    <fieldset>
-      <legend>Do you want adding to the mailing list?</legend>
-      <p>
-        <label>
-          <input type="checkbox" name="yes" value="yes"> Yes
-        </label>
-      </p>
-    </fieldset>
+    
   </form>
   
 

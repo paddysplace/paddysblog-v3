@@ -129,6 +129,8 @@ navigation_header:
   url: /search/
 - title: archives
   url: https://www.archives.thisispaddys.space
+- title: contact me
+  url: /contact/
 
 navigation_footer:
 - title: blog.thisispaddys.space
