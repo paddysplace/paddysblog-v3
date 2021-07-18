@@ -61,11 +61,11 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
-  max-height: 3rem;
+  max-height: 2rem;
   @include flexbox;
   @include align-items(center);
   img {
-    max-height: 3rem;
+    max-height: 2rem;
   }
 }
 

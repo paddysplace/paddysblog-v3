@@ -119,9 +119,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: paddys.space
-  url: https://www.thisispaddys.space
-- title: blog
+- title: posts
   url: /blog/
 - title: categories
   url: /categories/
@@ -134,7 +132,6 @@ navigation_header:
 
 navigation_footer:
 - title: blog.thisispaddys.space
-
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/thisispaddys
   GitHub: https://github.com/paddysplace
