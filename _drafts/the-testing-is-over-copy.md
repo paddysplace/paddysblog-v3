@@ -1,8 +1,8 @@
 ---
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
-title: The testing is over-(copy)
+title: The testing is over-UPDATED
 categories: Personal
-date: 2021-07-01 04:01
+date: 2021-07-31 04:01
 
 ---
 Well. Here I go. A blog about my thoughts and ideas. I don't have many thoughts. Or ideas. I feel like I just float through life being buffeted by whatever comes my way.
@@ -14,3 +14,9 @@ I remember being asked by the careers counselor at school what I wanted to be in
 This all sounds so pointless as a life. We've only got one life so live it. So they say. But it's like being given a book and told to read it. And enjoy it. It's the only book you're ever going to have. So make the most of it. So you slog your way through page after page of mundane story. Just hoping you can get through it quickly. To get to the end and breathe your last sigh of relief that it's finally over.
 
 The end.
+
+Update: So. I'm one month into my wonderful new blogging pastime and what have I learnt?
+
+I've learnt I'm a tiny, tiny fish in a very big ocean. I have nothing useful, interesting or helpful to say. And that I'm mainly writing for myself. 
+
+Am I surprised? No. Disappointed? Mmm, maybe a little. I mean, everybody likes to think they're being heard. Even if it's just an acknowledgement of one's existence. But it is what it is. I'm trying to focus on this being fun. And a learning process to help my wife's blog. I'd rather break something on my site than on hers!
