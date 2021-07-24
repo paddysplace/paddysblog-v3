@@ -11,4 +11,4 @@ Looking back now I realise that was bullshit.
 
 I have a ton of regrets and wishing I'd looked before I leaped. And the further away from my youth I get the stronger these thoughts become.
 
-### What i'd tell my younger self
+### What I'd Tell My Younger Self
