@@ -13,28 +13,23 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
 
 ### What I'd Tell My Younger Self
 
-**Take better care of yourself early on**
-
-**You are stronger than you know**
-
-**Always take care of your mental health**
-
-**Don’t believe everything everyone tells you**. **Especially in the workplace**
-
-**Work to live don’t live to work**
-
-**Don’t take things so personally**
-
-**Learn to embrace change**
-
-**Maintain friendships**
-
-**Don’t worry about what others think or about what they are doing**
-
-**It’s ok to get out of your comfort zone sometimes**
-
-**You are not your thoughts, you are the thinker of your thoughts**
-
-**Always choose kindness**
-
-**Spend more time together**
+ 1. **Take better care of yourself early on**
+ 2. **You are stronger than you know**
+ 3. **Always take care of your mental health**
+ 4. **Don’t believe everything everyone tells you**. **Especially in the workplace**
+ 5. **Work to live don’t live to work**
+ 6. **Don’t take things so personally**
+ 7. **Learn to embrace change**
+ 8. **Maintain friendships**
+ 9. **Don’t worry about what others think or about what they are doing**
+10. **It’s ok to get out of your comfort zone sometimes**
+11. **You are not your thoughts, you are the thinker of your thoughts**
+12. **Always choose kindness**
+13. **Spend more time together**
+14. **Everything happens for a reason**
+15. **Focus on one thing at a time. You can have it all but not all at once**
+16. **It's OK to be unsure about your purpose in life**
+17. **Don't try too hard with people**
+18. **stand up and speak out for what’s important to you**
+19. **You are not the only person in the world who feels this way**
+20. **Learn a different language**
