@@ -11,7 +11,7 @@ Looking back now I realise that was bullshit.
 
 I have a ton of regrets and wishing I'd looked before I leaped. And the further away from my youth I get the stronger these thoughts become.
 
-### What I'd Tell My Younger Self
+### ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250358/canva_assets/20_Things_I_d_Tell_20_Year_Old_Me_agchzz.png)
 
  1. **Take better care of yourself early on**
 
@@ -30,7 +30,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     Not that I really need to tell myself this. Work isn't everything. Don't take the baggage of work home with you.
  6. **Don’t take things so personally**
 
-    You need
+    You need a thicker skin. Do not take whatever anybody says to heart. People will lie, manipulage, dictate and criticise anything about you. They are not you. And their opinion of you is none of your business. 
  7. **Learn to embrace change**
  8. **Maintain friendships**
  9. **Don’t worry about what others think or about what they are doing**
