@@ -33,11 +33,15 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     You need a thicker skin. Do not take whatever anybody says to heart. People will lie, manipulage, dictate and criticise anything about you. They are not you. And their opinion of you is none of your business. 
  7. **Learn to embrace change**
  8. **Maintain friendships**
+
+    ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_Social_media_re_w12q_dbdqwh.png)
  9. **Don’t worry about what others think or about what they are doing**
 10. **It’s ok to get out of your comfort zone sometimes**
 11. **You are not your thoughts, you are the thinker of your thoughts**
 12. **Always choose kindness**
 13. **Spend more time together**
+
+    ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_fatherhood_7i19_hysxfi.png)
 14. **Everything happens for a reason**
 15. **Focus on one thing at a time. You can have it all but not all at once**
 16. **It's OK to be unsure about your purpose in life**
@@ -45,3 +49,5 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
 18. **stand up and speak out for what’s important to you**
 19. **You are not the only person in the world who feels this way**
 20. **Learn a different language**
+
+    ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_exams_g4ow_jd1g7g.png)
