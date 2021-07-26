@@ -2,7 +2,7 @@
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 title: 20 Things I'd Tell 20 Year Old Me
 categories: personal
-date: 2021-07-24 01:00
+date: 2021-07-26 01:00
 
 ---
 Turning 50, and then very quickly turning 51 has got me thinking of what I'd tell my younger self if I could go back in time. For the longest time, I'd say things like "no regrets" or "you only live once"
