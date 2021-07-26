@@ -17,6 +17,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
 
     Look after your body. Sure, it can recover quicker from a night out at 20. But you're going to feel it later in life. Brush your teeth twice a day. Properly. And have breakfast. Not a quick sip of coffee as you head out the door after being up and dressed in five minutes.
 
+
 2. **You are stronger than you know**
 
 
