@@ -68,8 +68,10 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
 17. **Don't try too hard with people** 
 
     You'll push people away. You'll lose good friends and ruin relationships before they have time to flourish. Saying less can be so much more effective than constantly speaking your mind.
-18. **stand up and speak out for what’s important to you**
-19. **You are not the only person in the world who feels this way**
-20. **Don't stop learning**
+18. **stand up and speak out for what’s important to you** Going slightly at odds with the list point. If you are passionate about an issue. You have a voice. Use it to help others. Don't be preachy or ram it down people's throats. Learn how to engage in debate to get your point across. It's ok to disagree with someone. Don't just go with the popular opinion. 
+19. **You are not the only person in the world who feels this way** 
+
+    It often feels like it at times. But whatever you're going through is not unique to you. Personal, yes. Share your thoughts and worries with like-minded people. Staying in your own head just makes the echo chamber resonate louder.
+20. **Don't stop learning** Ever. Don't stop reading. Try new interests. Some will stick, some will 
 
     ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_exams_g4ow_jd1g7g.png)
