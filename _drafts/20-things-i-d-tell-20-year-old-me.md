@@ -59,11 +59,15 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
 14. **Everything happens for a reason** 
 
     Some of these things will be good. Some things will be bad. Some you can control and others you can't.
-15. **Focus on one thing at a time. You can have it all but not all at once** Be patient. Be focused. Don't let thoughts or frustrations cloud your mind. Do what makes you happy in the moment and don't dwell on the other things you wish you could also do. You'll half ass anything you try and do of your mind is elsewhere. You can't juggle without dropping things.
-16. **It's OK to be unsure about your purpose in life** At 20, 30 or even 40. 
-17. **Don't try too hard with people**
+15. **Focus on one thing at a time. You can have it all but not all at once** 
+
+    Be patient. Be focused. Don't let thoughts or frustrations cloud your mind. Do what makes you happy in the moment and don't dwell on the other things you wish you could also do. You'll half ass anything you try and do of your mind is elsewhere. You can't juggle without dropping things.
+16. **It's OK to be unsure about your purpose in life** 
+
+    At 20, 30 or even 40. Life is ever changing.
+17. **Don't try too hard with people** 
 18. **stand up and speak out for what’s important to you**
 19. **You are not the only person in the world who feels this way**
-20. **Learn a different language**
+20. **Don't stop learning**
 
     ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_exams_g4ow_jd1g7g.png)
