@@ -21,7 +21,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     You can and will survive so many things in later life. It might not feel like it at the time but you can get through anything. Especially if you follow the next point.
  3. **Always take care of your mental health**
 
-    This is the single most important thing I can tell myself. Don't be afraid too get the help you feel you need. Do not let others around you influence you. They are not you. They are not the ones going through what you are. Listen to their advice. But the end decision lies with you. DO NOT suffer in silence.
+    This is the single most important thing I can tell myself. Don't be afraid to get the help you feel you need. Do not let others around you influence you. They are not you. They are not the ones going through what you are. Listen to their advice. But the end decision lies with you. DO NOT suffer in silence.
  4. **Don’t believe everything everyone tells you**. **Especially in the workplace**
 
     Everybody lies.  Even if they don't realise they're doing it. Or even mean to. Take everything you hear with a grain of salt. Stay out of workplace dramas. And stay away from workplace relationships. They never work out.
@@ -30,7 +30,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     Not that I really need to tell myself this. Work isn't everything. Don't take the baggage of work home with you. And don't stick with a job because you think you should.
  6. **Don’t take things so personally**
 
-    You need a thicker skin. Do not take whatever anybody says to heart. People will lie, manipulage, dictate and criticise anything about you. They are not you. And their opinion of you is none of your business.
+    You need a thicker skin. Do not take whatever anybody says to heart. People will lie, manipulate, dictate and criticise anything about you. They are not you. And their opinion of you is none of your business.
  7. **Learn to embrace change**
 
     There will be many changes in life, not all of them positive. Some changes you can change. Some you can't. Don't dwell on the things outside your control.
@@ -41,7 +41,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_Social_media_re_w12q_dbdqwh.png)
  9. **Don’t worry about what others think or about what they are doing**
 
-    Don't look at other people and compare what they have or want to you. You are not them and they are not you. They may drive a big, fast car and you trundle around in a 1L city car. It doesn't matter.
+    Don't look at other people and compare what they have or want to you. You are not them and they are not you. They may drive a big, fast car and you trundle around in a 1L city car. They may earn more money, be healthier, fitter It doesn't matter. Do not compare yourself to others.
 10. **It’s ok to get out of your comfort zone sometimes**
 
     Actually it's probably healthy. Don't stay in your own safe little bubble. You'll become more confident and able to cope with the world around you if you live in it just a little sometimes.
@@ -61,7 +61,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     Some of these things will be good. Some things will be bad. Some you can control and others you can't.
 15. **Focus on one thing at a time. You can have it all but not all at once**
 
-    Be patient. Be focused. Don't let thoughts or frustrations cloud your mind. Do what makes you happy in the moment and don't dwell on the other things you wish you could also do. You'll half ass anything you try and do of your mind is elsewhere. You can't juggle without dropping things.
+    Be patient. Be focused. Don't let thoughts or frustrations cloud your mind. Do what makes you happy in the moment and don't dwell on the other things you wish you could also do. You'll half ass anything you try and do if your mind is elsewhere. You can't juggle without dropping things.
 16. **It's OK to be unsure about your purpose in life**
 
     At 20, 30 or even 40. Life is ever changing.
