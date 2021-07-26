@@ -30,7 +30,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     Not that I really need to tell myself this. Work isn't everything. Don't take the baggage of work home with you. And don't stick with a job because you think you should.
  6. **Don’t take things so personally**
 
-    You need a thicker skin. Do not take whatever anybody says to heart. People will lie, manipulage, dictate and criticise anything about you. They are not you. And their opinion of you is none of your business. 
+    You need a thicker skin. Do not take whatever anybody says to heart. People will lie, manipulage, dictate and criticise anything about you. They are not you. And their opinion of you is none of your business.
  7. **Learn to embrace change**
 
     There will be many changes in life, not all of them positive. Some changes you can change. Some you can't. Don't dwell on the things outside your control.
@@ -41,13 +41,21 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_Social_media_re_w12q_dbdqwh.png)
  9. **Don’t worry about what others think or about what they are doing**
 
-    Don't look at other people and compare what they have or want to you. You are not them and they are not you. They may drive a big, fast car and you trundle around in a 1L city car. It doesn't matter. 
-10. **It’s ok to get out of your comfort zone sometimes**
-11. **You are not your thoughts, you are the thinker of your thoughts**
-12. **Always choose kindness**
-13. **Spend more time together**
+    Don't look at other people and compare what they have or want to you. You are not them and they are not you. They may drive a big, fast car and you trundle around in a 1L city car. It doesn't matter.
+10. **It’s ok to get out of your comfort zone sometimes** 
+
+    Actually it's probably healthy. Don't stay in your own safe little bubble. You'll become more confident and able to cope with the world around you if you live in it just a little sometimes. 
+11. **You are not your thoughts, you are the thinker of your thoughts** 
+
+    Your own mind can be your worst enemy at times. Seeds of doubt and self hate can grow and fester given enough time and energy. It's a cliché to "think positive" but there's also some truth in it. Try and not let the negative thoughts win so much. 
+12. **Always choose kindness** 
+
+    Another one I don't really need to tell myself. But this includes everyone and everything in life. People as well as animals. 
+13. **Spend more time together** I cannot stress this enough. Make more time for family. Even if you have to do all the hard work. 
 
     ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_fatherhood_7i19_hysxfi.png)
+
+    They're not always going to be there. And when they're gone you will have regrets about things left unsaid.
 14. **Everything happens for a reason**
 15. **Focus on one thing at a time. You can have it all but not all at once**
 16. **It's OK to be unsure about your purpose in life**
