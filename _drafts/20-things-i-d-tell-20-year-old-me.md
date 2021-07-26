@@ -21,7 +21,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     You can and will survive so many things in later life. It might not feel like it at the time but you can get through anything. Especially if you follow the next point.
  3. **Always take care of your mental health**
 
-    This is the single most important thing I can tell myself. I can't stress this enough. Don't be afraid too get the help you feel you need. Do not let others around you influence you. They are not you. They are not the ones going through what you are. Listen to their advice. But the end decision lies with you. DO NOT suffer in silence.
+    This is the single most important thing I can tell myself. Don't be afraid too get the help you feel you need. Do not let others around you influence you. They are not you. They are not the ones going through what you are. Listen to their advice. But the end decision lies with you. DO NOT suffer in silence.
  4. **Don’t believe everything everyone tells you**. **Especially in the workplace**
 
     Everybody lies.  Even if they don't realise they're doing it. Or even mean to. Take everything you hear with a grain of salt. Stay out of workplace dramas. And stay away from workplace relationships. They never work out.
