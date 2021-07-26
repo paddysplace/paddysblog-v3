@@ -66,6 +66,8 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
 
     At 20, 30 or even 40. Life is ever changing.
 17. **Don't try too hard with people** 
+
+    You'll push people away. You'll lose good friends and ruin relationships before they have time to flourish. Saying less can be so much more effective than constantly speaking your mind.
 18. **stand up and speak out for what’s important to you**
 19. **You are not the only person in the world who feels this way**
 20. **Don't stop learning**
