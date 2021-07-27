@@ -5,7 +5,7 @@ categories: cakes
 date: 2021-07-27 01:00
 
 ---
-Many moons ago. In the dark and distant past. I had a blogger blog. An, if not successful, then I slightly popular one.
+Many moons ago. In the dark and distant past. I had a blogger blog. An, if not successful, then maybe a slightly popular one.
 
 And then for some reason. I got bored with it.  And left it gathering dust. 
 
@@ -17,4 +17,4 @@ My girlfriend has stopped making celebration cakes. But the photos are still wit
 
 So here I go. Resurrecting **Cake** Tuesday. 
 
-The original post can be found [here]().
+The original post can be found [here](https://www.archives.thisispaddys.space/cakes/2007/07/24/cake-tuesday/ "Safari Cake").
