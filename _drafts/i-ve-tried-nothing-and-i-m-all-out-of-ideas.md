@@ -31,7 +31,7 @@ I like to go running. I'm never going to be an Olympic athlete. So why do it? Sh
 
 In an online world where everybody wants to be the best, earn the most. Get the most likes, page views, comments. Be noticed. I guess doing something for the self satisfaction feels a little strange.
 
-But maybe that's just me.
+But maybe, that's just me.
 
 Oh. So what have I learnt?
 
