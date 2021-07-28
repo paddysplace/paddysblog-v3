@@ -11,4 +11,4 @@ So. What have I learned this month? Well, rather than being a small fish in a ve
 
 The number of Pinterest pins claiming to double you page views. Help you start making $$$$ in as revenue. Become Master of the Universe in 3 easy steps is ridiculous. 
 
-I never expeced to make a penny from blogging. An
+I never expeced to make a penny from blogging. And so far my predictions have been correct. I have nothing to say. No pearls of wisdom. Nothing that hasn't been said a thousand times before. And probably better. 
