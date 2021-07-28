@@ -11,9 +11,9 @@ So. What have I learned this month? Well, rather than being a small fish in a ve
 
 The number of Pinterest pins claiming to double you page views. Help you start making $$$$ in as revenue. Become Master of the Universe in 3 easy steps is ridiculous.
 
-I never expeced to make a penny from blogging. And so far my predictions have been correct. I have nothing to say. No pearls of wisdom. Nothing that hasn't been said a thousand times before. And probably better.
+I never expected to make a penny from blogging. And so far my predictions have been correct. I have nothing to say. No pearls of wisdom. Nothing that hasn't been said a thousand times before. And probably better.
 
-So why do it? I'm not a social butterfly. I don't know a ton of people. I'm shy, introverted and quiet. So why do I put myself out there?
+So why do it? I'm not a social butterfly. I don't know a ton of people. I'm shy, introverted and quiet So why do I put myself out there?
 
 No, really, why? I'd love to know, because I'll be buggered if I know!
 
@@ -25,4 +25,4 @@ It's all just fun. I like to make websites. Nobody will see them. Maybe that's w
 
 I like to go running. I'm never going to be an Olympic athlete. So why do it? Sheer enjoyment. Although with running it doesn't usually feel like it at the time!
 
-In an online world where everybody wants to be the best, earn the most. Get the most likes, page views, comments. Be noticed.  
+In an online world where everybody wants to be the best, earn the most. Get the most likes, page views, comments. Be noticed. I guess doing something for the self satisfaction seems a little strange. 
