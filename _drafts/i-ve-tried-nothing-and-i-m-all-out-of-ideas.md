@@ -29,6 +29,10 @@ It's all just fun. I like to make websites. Nobody will see them. Maybe that's w
 
 I like to go running. I'm never going to be an Olympic athlete. So why do it? Sheer enjoyment. Although with running it doesn't usually feel like it at the time!
 
-In an online world where everybody wants to be the best, earn the most. Get the most likes, page views, comments. Be noticed. I guess doing something for the self satisfaction feels a little strange. 
+In an online world where everybody wants to be the best, earn the most. Get the most likes, page views, comments. Be noticed. I guess doing something for the self satisfaction feels a little strange.
 
-But maybe that's just me. 
+But maybe that's just me.
+
+Oh. So what have I learnt?
+
+Well for one. I don't need to quickly write a blog post, half arse it and say pretty much nothing interesting. I'm hoping this one is different. 
