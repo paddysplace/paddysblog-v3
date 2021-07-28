@@ -17,7 +17,9 @@ So why do it? I'm not a social butterfly. I don't know a ton of people. I'm shy,
 
 No, really, why? I'd love to know, because I'll be buggered if I know! The online gurus say to find your niche. I have no idea if I have a niche.
 
-I have depression. I like animals. I watch tennis. I've started to go to the gym (which is way, way out of my comfort zone)
+I have depression. I like animals (friends, not food). I watch tennis. I've started to go to the gym (which is way, way out of my comfort zone) I've tried learning Japanese but I have a terrible memory. I fall in and out of interests. I dwell on the negative instead of embracing the positive. I barely know my own mind sometimes.
+
+But.
 
 I like to play around with new things. New services. New websites. It distracts me from the real world. It's the creation of something. It may be a boring old blog post that offers zero information or entertainment. But I guess it is just. Fun.
 
