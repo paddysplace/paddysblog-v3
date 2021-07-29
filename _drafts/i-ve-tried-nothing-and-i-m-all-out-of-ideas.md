@@ -15,15 +15,17 @@ I never expected to make a penny from blogging. And so far my predictions have b
 
 So why do it? I'm not a social butterfly. I don't know a ton of people. I'm shy, introverted, and quiet So why do I put myself out there?
 
+#### what's My Niche Again?
+
 No, really, why? I'd love to know because I'll be buggered if I know! The online gurus say to find your niche. I have no idea if I have a niche.
 
-* I have depression. 
-* I like animals (friends, not food). 
-* I watch tennis. 
-* I've started to go to the gym (which is way, way out of my comfort zone) 
-* I've tried learning Japanese but I have a terrible memory. 
-* I fall in and out of interests. 
-* I dwell on the negative instead of embracing the positive. 
+* I have depression.
+* I like animals (friends, not food).
+* I watch tennis.
+* I've started to go to the gym (which is way, way out of my comfort zone)
+* I've tried learning Japanese but I have a terrible memory.
+* I fall in and out of interests.
+* I dwell on the negative instead of embracing the positive.
 * I barely know my own mind sometimes.
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1627506419/illustrations/4443395_p3lfqo.jpg)**But**.
@@ -42,7 +44,7 @@ But maybe, that's just me.
 
 Oh. So what have I learned?
 
-Well for one. I don't need to quickly write a blog post, half-arse it, and say pretty much nothing interesting.
+Well for one. I don't need to quickly write a blog post, half-arse it, and say pretty much nothing interesting. Just to write 'something'
 
 Also rather than being a small fish in a very big pond. I'm more of a speck of dust floating in the universe.
 
