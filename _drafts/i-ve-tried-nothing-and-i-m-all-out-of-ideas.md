@@ -17,7 +17,14 @@ So why do it? I'm not a social butterfly. I don't know a ton of people. I'm shy,
 
 No, really, why? I'd love to know because I'll be buggered if I know! The online gurus say to find your niche. I have no idea if I have a niche.
 
-I have depression. I like animals (friends, not food). I watch tennis. I've started to go to the gym (which is way, way out of my comfort zone) I've tried learning Japanese but I have a terrible memory. I fall in and out of interests. I dwell on the negative instead of embracing the positive. I barely know my own mind sometimes.
+* I have depression. 
+* I like animals (friends, not food). 
+* I watch tennis. 
+* I've started to go to the gym (which is way, way out of my comfort zone) 
+* I've tried learning Japanese but I have a terrible memory. 
+* I fall in and out of interests. 
+* I dwell on the negative instead of embracing the positive. 
+* I barely know my own mind sometimes.
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1627506419/illustrations/4443395_p3lfqo.jpg)**But**.
 
@@ -37,7 +44,7 @@ Oh. So what have I learned?
 
 Well for one. I don't need to quickly write a blog post, half-arse it, and say pretty much nothing interesting.
 
-Also rather than being a small fish in a very big pond. I'm more of a speck of dust floating in the universe. 
+Also rather than being a small fish in a very big pond. I'm more of a speck of dust floating in the universe.
 
 Don't expect to be even noticed. You may get a few visitors, who then quickly click to something more interesting.  Hell, I've done it myself. Clicked on something, read it, moved on. So I'm just as guilty.
 
@@ -45,6 +52,6 @@ Write because you enjoy it. It's therapeutic. Write for yourself.
 
 You're not going to make $$$ a month. You'll be frustrated trying and lose the enjoyment of blogging.
 
-This isn't a pity post. 
+This isn't a pity post.
 
-More of, say, a reality check. A long rambling reality check that has a crappy ending. 
+More of, say, a reality check. A long rambling reality check that has a crappy ending.
