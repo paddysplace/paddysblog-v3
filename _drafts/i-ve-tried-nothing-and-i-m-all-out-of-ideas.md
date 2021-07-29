@@ -37,4 +37,12 @@ But maybe, that's just me.
 
 Oh. So what have I learned?
 
-Well for one. I don't need to quickly write a blog post, half-arse it, and say pretty much nothing interesting. I'm hoping this one is different.
+Well for one. I don't need to quickly write a blog post, half-arse it, and say pretty much nothing interesting.
+
+Don't expect to be even noticed. You may get a few visitors, who then quickly click to something more interesting.  Hell, I've done it myself. Clicked on something, read it, moved on. So I'm just as guilty. 
+
+Write because you enjoy it. It's therapeutic. Write for yourself.
+
+You're not going to make $$$ a month. You'll be frustrated trying and lose the enjoyment of blogging. 
+
+ I'm hoping this one is different.
