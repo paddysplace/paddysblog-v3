@@ -7,8 +7,6 @@ date: 2021-07-29 01:00
 ---
 It's been a month. Already? I know! Time flies when you're having fun.
 
-So. What have I learned this month? Well, rather than being a small fish in a very big pond. I'm more of a speck of dust floating in the universe. This isn't a pity post. More of, say, a reality check.
-
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1627508807/canva_assets/i_ve_tried_nothing_frqray.jpg)
 
 The number of Pinterest pins claiming to double your page views. Help you start making $$$$ in as revenue. Become Master of the Universe in 3 easy steps is ridiculous.
@@ -39,10 +37,14 @@ Oh. So what have I learned?
 
 Well for one. I don't need to quickly write a blog post, half-arse it, and say pretty much nothing interesting.
 
-Don't expect to be even noticed. You may get a few visitors, who then quickly click to something more interesting.  Hell, I've done it myself. Clicked on something, read it, moved on. So I'm just as guilty. 
+Also rather than being a small fish in a very big pond. I'm more of a speck of dust floating in the universe. 
+
+Don't expect to be even noticed. You may get a few visitors, who then quickly click to something more interesting.  Hell, I've done it myself. Clicked on something, read it, moved on. So I'm just as guilty.
 
 Write because you enjoy it. It's therapeutic. Write for yourself.
 
-You're not going to make $$$ a month. You'll be frustrated trying and lose the enjoyment of blogging. 
+You're not going to make $$$ a month. You'll be frustrated trying and lose the enjoyment of blogging.
 
- I'm hoping this one is different.
+This isn't a pity post. 
+
+More of, say, a reality check. A long rambling reality check that has a crappy ending. 
