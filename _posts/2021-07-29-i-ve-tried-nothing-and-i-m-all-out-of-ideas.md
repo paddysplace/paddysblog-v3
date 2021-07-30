@@ -2,7 +2,7 @@
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 title: I've Tried Nothing And I'm All Out Of Ideas
 categories: personal
-date: 2021-07-29 01:00
+date: 2021-07-29 06:00
 
 ---
 It's been a month. Already? I know! Time flies when you're having fun.
@@ -38,7 +38,7 @@ It's all just fun. I like to make websites. Nobody will see them. Maybe that's w
 
 I like to go running. I'm never going to be an Olympic athlete. So why do it? Sheer enjoyment. Although with running it doesn't usually feel like it at the time!
 
-In an online world where everybody wants to be the best, earn the most. Get the most likes, page views, comments. Be noticed. I guess doing something for the self-satisfaction feels a little strange.
+In an online world where everybody wants to be the best, earn the most. Get the most likes, page views, comments. Be noticed. I guess doing something for self-satisfaction feels a little strange.
 
 But maybe, that's just me.
 
