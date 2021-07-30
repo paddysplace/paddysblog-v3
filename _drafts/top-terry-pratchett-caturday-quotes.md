@@ -8,3 +8,5 @@ date: 2021-07-31 01:00
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1627672791/quotes/pratchett-cat-quote-0_ofvinm.png)
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1627672796/quotes/pratchett-cat-quote-1_llilsm.png)
+
+![](https://res.cloudinary.com/paddysplace/image/upload/v1627672802/quotes/pratchett-cat-quote-2_tfpz7m.png)
