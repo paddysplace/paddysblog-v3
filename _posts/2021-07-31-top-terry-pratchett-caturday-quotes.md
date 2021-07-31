@@ -5,15 +5,17 @@ categories: caturday
 date: 2021-07-31 01:00
 
 ---
-### Favourite quotes 
+### Favourite quotes
 
-![](https://res.cloudinary.com/paddysplace/image/upload/v1627672791/quotes/pratchett-cat-quote-0_ofvinm.png)
+Just a few of my favourite cat-related quotes from my favourite author. The late, great [Sir Terry Pratchett](https://www.terrypratchettbooks.com/ "Sir Terry Pratchett"). 
 
-![](https://res.cloudinary.com/paddysplace/image/upload/v1627672796/quotes/pratchett-cat-quote-1_llilsm.png)
+_![](https://res.cloudinary.com/paddysplace/image/upload/v1627672791/quotes/pratchett-cat-quote-0_ofvinm.png)The cat wonderfully posing in the pictures is Sam._ 
 
-![](https://res.cloudinary.com/paddysplace/image/upload/v1627672802/quotes/pratchett-cat-quote-2_tfpz7m.png)
+_![](https://res.cloudinary.com/paddysplace/image/upload/v1627672796/quotes/pratchett-cat-quote-1_llilsm.png)Sam actually lived 10 houses down from us. But decided to move in with his brother._
 
-![](https://res.cloudinary.com/paddysplace/image/upload/v1627672808/quotes/pratchett-cat-quote-3_hpsxrj.png)
+_![](https://res.cloudinary.com/paddysplace/image/upload/v1627672802/quotes/pratchett-cat-quote-2_tfpz7m.png)We eventually found out where he lived._
+
+_![](https://res.cloudinary.com/paddysplace/image/upload/v1627672808/quotes/pratchett-cat-quote-3_hpsxrj.png)He moved back home, whilst his brother stayed with us._
 
 ### Honorable Mentions
 
