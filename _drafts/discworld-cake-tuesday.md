@@ -23,4 +23,4 @@ The picture quality may not be the best. I might try and dig out some better pho
 
 There are other Discworld cakes that will appear along the way.
 
-The original post for this cake can be found here.
+The original post for this cake can be found [here](https://www.archives.thisispaddys.space/cakes/2006/07/25/cake-tuesday_25/).
