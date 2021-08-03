@@ -15,8 +15,12 @@ Like this one! What a fantastic segway into this cake Tuesday offering.
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1627983722/2004_0319Image0062_1_h6adnq.jpg)
 
-My mother who is equally as enthralled in the Discworld received this lovely creation _for he_r birthday many years ago. I still think it's her favourite.
+My mother who is equally as enthralled in the Discworld received this lovely creation for her birthday many years ago. I still think it's her favourite.
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1627983722/2004_0324Image0066_yc04bf.jpg)
 
 The picture quality may not be the best. I might try and dig out some better photos if they exist. 
+
+There are other Discworld cakes which will appear along the way. 
+
+The original post for this cake can be found here.
