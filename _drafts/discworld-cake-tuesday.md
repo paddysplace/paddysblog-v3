@@ -1,0 +1,16 @@
+---
+feature_image: https://picsum.photos/1400/600?grayscale&blur=2
+title: Discworld Cake Tuesday
+categories: cakes
+date: 2021-08-03 01:00
+
+---
+Since the age of 16 when a college friend thrust a well read book into my hand and told me to read it saying
+
+"You've got to read this. Death is in it, and he friends up with cocktail sticks" 
+
+I've been hooked on the late great Terry Pratchett's Discworld. The obsession has wained slightly over the years. I've read the books, listened to the audiobooks and watched the TV adaptations* the only exception being the watch that it's just a part of my DNA. I don't feel the need to consume the media as obsessively as I did. But every time I think about the Discworld it makes me smile with wonderful memories. 
+
+Like this one! What a fantastic segway into this cake Tuesday offering. 
+
+My mother who is equally as enthralled in the Discworld received this lovely creation for her birthday many years ago. I still think it's her favourite.
