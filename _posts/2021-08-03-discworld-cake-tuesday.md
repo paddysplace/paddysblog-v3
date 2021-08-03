@@ -25,4 +25,4 @@ There are other Discworld cakes that will appear along the way.
 
 The original post for this cake can be found [here](https://www.archives.thisispaddys.space/cakes/2006/07/25/cake-tuesday_25/).
 
-\[^1\] the only exception being The Watch which is an abomination unto Nuggen.
+\[^1\] : the only exception being The Watch which is an abomination unto Nuggen.
