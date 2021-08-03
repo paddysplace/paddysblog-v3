@@ -9,10 +9,14 @@ Since the age of 16 when a college friend thrust a well read book into my hand a
 
 "You've got to read this. Death is in it, and he friends up with cocktail sticks"
 
-I've been hooked on the late great Terry Pratchett's Discworld. The obsession has wained slightly over the years. I've read the books, listened to the audiobooks and watched the TV adaptations* the only exception being the watch that it's just a part of my DNA. I don't feel the need to consume the media as obsessively as I did. But every time I think about the Discworld it makes me smile with wonderful memories.
+I've been hooked on the late great Terry Pratchett's Discworld. The obsession has wained slightly over the years. I've read the books, listened to the audiobooks and watched the TV adaptations*( the only exception being the watch which is an abomination unto Nuggen) that it's just a part of my DNA. I don't feel the need to consume the media as obsessively as I did. But every time I think about the Discworld it makes me smile with wonderful memories.
 
 Like this one! What a fantastic segway into this cake Tuesday offering.
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1627983722/2004_0319Image0062_1_h6adnq.jpg)
 
 My mother who is equally as enthralled in the Discworld received this lovely creation _for he_r birthday many years ago. I still think it's her favourite.
+
+![](https://res.cloudinary.com/paddysplace/image/upload/v1627983722/2004_0324Image0066_yc04bf.jpg)
+
+The picture quality may not be the best. I might try and dig out some better photos if they exist. 
