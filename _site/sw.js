@@ -1,8 +1,8 @@
-const version = '20210718232657';
+const version = '20210804055153';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/quotes/depression/2021/07/18/quote-of-the-day/","/caturday/2021/07/17/it-s-caturday/","/designs/2021/07/14/it-s-lead-work-wednesday-1/","/running/c25k/2021/07/11/keep-on-running/","/caturday/2021/07/10/it-s-caturday/","/personal/2021/07/08/why-am-i-doing-this/","/personal/2021/07/06/i-hate-time/","/personal/2021/07/05/i-don-t-like-mondays/","/caturday/2021/07/03/its-caturday/","/personal/2021/07/01/the-testing-is-over/","/categories/","/contact/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/page2/","/blog/page3/","/blog/page4/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/home-page-icon-0.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/cakes/2021/08/03/discworld-cake-tuesday/","/caturday/2021/07/31/top-terry-pratchett-caturday-quotes/","/personal/2021/07/29/i-ve-tried-nothing-and-i-m-all-out-of-ideas/","/cakes/2021/07/27/cake-tuesday/","/personal/2021/07/26/20-things-i-d-tell-20-year-old-me/","/demotivation/2021/07/26/demotivation-monday/","/c25k/depression/2021/07/24/are-we-nearly-there-yet/","/quotes/2021/07/22/pale-blue-dot/","/depression/2021/07/19/sharing-a-post/","/quotes/depression/2021/07/18/quote-of-the-day/","/categories/","/contact/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/home-page-icon-0.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
