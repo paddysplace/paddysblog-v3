@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "blog.thisispaddys.space" # Site name or title, also used in jekyll-seo-tag
 logo: "https://www.freeiconspng.com/uploads/home-page-icon-0.png" # Site logo, also used in jekyll-seo-tag
 description: "Home"
-url: "" # Site url, also used in jekyll-seo-tag
+url: "https://blog.thisispaddys.space" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "paddy@thisispaddys.space"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
