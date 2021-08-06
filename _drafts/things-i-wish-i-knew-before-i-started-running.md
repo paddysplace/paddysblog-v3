@@ -18,4 +18,5 @@ As with all things I threw myself into it 110%. Running every other day,
 5. Listen To Your Body
 6. Never Compare
 7. Drink Plenty of Water
-8. 
+8. Wear The Right Shoes
+9. 
