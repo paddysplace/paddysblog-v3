@@ -19,4 +19,7 @@ As with all things I threw myself into it 110%. Running every other day,
 6. Never Compare
 7. Drink Plenty of Water
 8. Wear The Right Shoes
-9. 
+
+1. Slow And Steady
+
+The worst thing I did was go off like a greyhound, and keep going until it felt live
