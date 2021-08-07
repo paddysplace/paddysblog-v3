@@ -56,7 +56,16 @@ Dehydration negatively affects your running performance and slows your ability t
 
 8. **Wear The Right Shoes**
 
-* Do your feet ache after a run? your toes, arches? feeling numbness?
+* Do your feet ache after a run, feeling numbness?
 * You can’t get your shoes off without completely loosening the laces
 * After a long run, your arches ache, your Achilles-tendon is tender, and/or you feel strain in your calves
 * Numbness or strain on the top of your foot
+* Your toes burn after a run
+
+Chances are you aren't wearing suitable shoes. Those ratty old trainers aren't doing your feet any favours. I ended up going to a dedicates running shop. They analysed my running style and picked out a pair of running shoes. And they've been my best investment yet in my running journey.
+
+#### So What did I learn?
+
+Don't try to do too much too soon. Listen to your what your body is telling you. Don't try to run through the pain. The risk of injury is very real. Try and get proper running shoes as soon as possible. And run for yourself. You can't run too slow. But you can run too fast and risk injury. And stay hydrated!
+
+And try to run for fun. Your body will thank you.
