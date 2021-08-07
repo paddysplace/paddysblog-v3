@@ -52,4 +52,11 @@ _"Comparison Is The Thief Of Joy"_ - Theodore Roosevelt
 
 Dehydration negatively affects your running performance and slows your ability to recover. It increases muscle fatigue and exhaustion. Drinking before a run is so so important. Drink when you're thirsty. Seems like an obvious thing to say. 
 
+“Feeling thirsty happens after you are dehydrated,” explains Dr. Martha Pyron, MD of [**Medicine in Motion**](https://medinmotion.com/). “You should try to prevent feeling thirsty.”
+
 8. **Wear The Right Shoes**
+
+* Do your feet ache after a run? your toes, arches? feeling numbness?
+* You can’t get your shoes off without completely loosening the laces
+* After a long run, your arches ache, your Achilles-tendon is tender, and/or you feel strain in your calves
+* Numbness or strain on the top of your foot
