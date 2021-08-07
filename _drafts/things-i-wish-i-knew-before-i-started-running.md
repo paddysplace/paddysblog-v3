@@ -29,4 +29,12 @@ The worst thing I did was go off like a greyhound, and keep going until it felt 
 
 2. **There's Nothing Wrong With Walking**
 
-Unless you're trying to break a world record or get a PB then slowing down for a walk is 
+Unless you're trying to break a world record or get a PB then slowing down for a walk is ok. It's preferable to pushng too far and risking injury. It doesn't make you any less of a runner. It's not cheating. And there's nothing wrong with using walking and running to improve your fitness.
+
+3. **Rest Days Matter**
+
+This toook me a while to realise. In my excitement to begin my runninh journey I did way too much in the beginning. Running every moment I could, playing Ring Fit on the Nintendo Switch when I couldn't. I was putting my body through too much too soon. Which might be ok when you're younger. But at 50....not so much.
+
+4. **Strength Training**
+
+I thought all I needed to do was run. Increase my stamina. Run. Increase my strength. Run. Well turns out that wasn't the best for my muscles. Lifting weights, using resistence bands. Even yoga that helps muscle groups is all important things to 
