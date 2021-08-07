@@ -45,4 +45,8 @@ The single worst thing I did was ignore my aches and pains. I thought I was just
 
 6. **Never Compare**
 
-The one contributing factor to my injury was getting a fitbit, uploading my times to fitbit and strava and seeing how my times stacked up to others. When I saw my pace was slower than a snail 
+The one contributing factor to my injury was getting a fitbit, uploading my times to fitbit and strava and seeing how my times stacked up to others. When I saw my pace was slower than a turtle in peanut butter then I pushed myself. Too hard. So remember:
+
+_"Comparison Is The Thief Of Joy"_ - Theodore Roosevelt
+
+7. 
