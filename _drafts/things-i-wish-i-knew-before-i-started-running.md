@@ -37,4 +37,8 @@ This toook me a while to realise. In my excitement to begin my runninh journey I
 
 4. **Strength Training**
 
-I thought all I needed to do was run. Increase my stamina. Run. Increase my strength. Run. Well turns out that wasn't the best for my muscles. Lifting weights, using resistence bands. Even yoga that helps muscle groups is all important things to 
+I thought all I needed to do was run. Increase my stamina. Run. Increase my strength. Run. Well turns out that wasn't the best for my muscles. Lifting weights, using resistence bands. Even yoga that helps muscle groups is all important things to consider on your running journey.
+
+5. **Listen To Your Body**
+
+The single worst thing I did was ignore my aches and pains. I thought I was just old and out of shape. The more I run the looser my muscles will become. Wrong. 
