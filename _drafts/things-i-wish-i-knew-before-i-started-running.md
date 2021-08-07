@@ -25,4 +25,8 @@ As with all things I threw myself into it 110%. Running every other day, Not exe
 
 1. **Slow And Steady**
 
-The worst thing I did was go off like a greyhound, and keep going until it felt live
+The worst thing I did was go off like a greyhound, and keep going until it felt like my lungs would explode. Following the couch to 5k app with a mixture of running/walking helped slow down my pace. Which brings me onto...
+
+2. **There's Nothing Wrong With Walking**
+
+Unless you're trying to break a world record or get a PB then slowing down for a walk is 
