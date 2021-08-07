@@ -1,6 +1,6 @@
 ---
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
-title: Things I wish I knew before I started running
+title: 9 Things I wish I knew before I started running
 categories: running c25k
 date: 2021-08-06 01:00
 
@@ -9,7 +9,7 @@ I still consider myself new to running. I started about a year ago. Then injured
 
 As with all things I threw myself into it 110%. Running every other day, Not exercising
 
-#### The Things I Wish I Knew
+#### 9 The Things I Wish I Knew
 
 1. Slow and Steady
 2. There's Nothing Wrong With Walking
