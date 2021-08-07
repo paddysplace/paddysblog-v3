@@ -7,7 +7,7 @@ date: 2021-08-06 01:00
 ---
 I still consider myself new to running. I started about a year ago. Then injured my knee and been slowly getting back into it.
 
-As with all things I threw myself into it 110%. Running every other day,
+As with all things I threw myself into it 110%. Running every other day, Not exercising
 
 #### The Things I Wish I Knew
 
@@ -19,7 +19,10 @@ As with all things I threw myself into it 110%. Running every other day,
 6. Never Compare
 7. Drink Plenty of Water
 8. Wear The Right Shoes
+9. Slow And Steady
 
-1. Slow And Steady
+##### Things I wish I knew before I started running
+
+1. **Slow And Steady**
 
 The worst thing I did was go off like a greyhound, and keep going until it felt live
