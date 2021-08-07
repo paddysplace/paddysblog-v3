@@ -5,6 +5,8 @@ categories: running c25k
 date: 2021-08-06 01:00
 
 ---
+![](https://res.cloudinary.com/paddysplace/image/upload/v1628363292/c25k/8_Things_I_wish_I_knew_before_I_started_running_insta.png)
+
 I still consider myself new to running. I started about a year ago. Then injured my knee and been slowly getting back into it.
 
 As with all things I threw myself into it 110%. Running every other day, Not exercising
