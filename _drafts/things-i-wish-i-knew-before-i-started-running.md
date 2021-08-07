@@ -41,4 +41,8 @@ I thought all I needed to do was run. Increase my stamina. Run. Increase my stre
 
 5. **Listen To Your Body**
 
-The single worst thing I did was ignore my aches and pains. I thought I was just old and out of shape. The more I run the looser my muscles will become. Wrong. 
+The single worst thing I did was ignore my aches and pains. I thought I was just old and out of shape. The more I run the looser my muscles will become. Wrong. No pain no gain. Doubly wrong. I was soon off work with a [torn meniscus](https://www.webmd.com/pain-management/knee-pain/meniscus-tear-injury "torn meniscus"). Weeks of rest and weeks of physio and I'm finally back running. But i'm wary of pushing myself.
+
+6. **Never Compare**
+
+The one contributing factor to my injury was getting a fitbit, uploading my times to fitbit and strava and seeing how my times stacked up to others. When I saw my pace was slower than a snail 
