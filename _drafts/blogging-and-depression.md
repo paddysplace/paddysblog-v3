@@ -20,7 +20,11 @@ Running can reduce stress, depression, and anxiety.'
 
 Whether that's due to my medication or I'm not exerting myself enough I don't know. But I've never experienced the sensation
 
-The burst of endorphins released during exercise has long been referred to the as the runners high
+The burst of endorphins released during exercise has long been referred to as the runner's high.
+
+You breathe faster, your pulse gets quicker and your heart pumps blood around your body harder. Your body releases endorphins
+
+Endorphins are chemicals produced naturally by the nervous system to cope with pain or stress.
 
 Links
 
