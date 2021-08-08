@@ -26,11 +26,11 @@ As with all things I threw myself into it 110%. Running every other day, Not exe
 
 ##### Things I wish I knew before I started running
 <br>
-**Slow And Steady**
+1. **Slow And Steady**
 
 The worst thing I did was go off like a greyhound, and keep going until it felt like my lungs would explode. Following the couch to 5k app with a mixture of running/walking helped slow down my pace. Which brings me onto...
 
-**There's Nothing Wrong With Walking**
+2. **There's Nothing Wrong With Walking**
 
 Unless you're trying to break a world record or get a PB then slowing down for a walk is ok. It's preferable to pushng too far and risking injury. It doesn't make you any less of a runner. It's not cheating. And there's nothing wrong with using walking and running to improve your fitness.
 
@@ -71,7 +71,6 @@ Chances are you aren't wearing suitable shoes. Those ratty old trainers aren't d
 
 #### So What did I learn?
 <br>
-
 Don't try to do too much too soon. Listen to your what your body is telling you. Don't try to run through the pain. The risk of injury is very real. Try and get proper running shoes as soon as possible. And run for yourself. You can't run too slow. But you can run too fast and risk injury. And stay hydrated!
 
 And try to run for fun. Your body will thank you.
