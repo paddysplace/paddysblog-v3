@@ -5,7 +5,6 @@ categories: depression mental-health
 date: 
 
 ---
-
 # Running For Your Mental Health
 
 'Running regularly at a moderate or vigorous level can improve your mental health. 
@@ -24,7 +23,7 @@ The burst of endorphins released during exercise has long been referred to as th
 
 You breathe faster, your pulse gets quicker and your heart pumps blood around your body harder. Your body releases endorphins
 
-Endorphins are chemicals produced naturally by the nervous system to cope with pain or stress.
+Endorphins are the chemicals produced naturally by the nervous system to cope with pain or stress.
 
 Links
 
