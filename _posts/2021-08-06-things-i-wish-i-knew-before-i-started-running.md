@@ -21,11 +21,10 @@ As with all things I threw myself into it 110%. Running every other day, Not exe
 5. Listen To Your Body
 6. Never Compare
 7. Drink Plenty of Water
-8. Wear The Right Shoes
+8. Wear The Right Shoes<br>
 
 ##### Things I wish I knew before I started running
 <br>
-
 **Slow And Steady**
 
 The worst thing I did was go off like a greyhound, and keep going until it felt like my lungs would explode. Following the couch to 5k app with a mixture of running/walking helped slow down my pace. Which brings me onto
