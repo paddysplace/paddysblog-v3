@@ -12,7 +12,6 @@ I still consider myself new to running. I started about a year ago. Then injured
 As with all things I threw myself into it 110%. Running every other day, Not exercising
 
 #### 8 The Things I Wish I Knew  
-<p></p>
 
 
 1. Slow and Steady
