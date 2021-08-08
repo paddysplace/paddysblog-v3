@@ -1,7 +1,7 @@
 ---
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 title: It's Caturday
-categories: Caturday
+categories: caturday
 date: 2021-07-03 06:00
 ---
 
