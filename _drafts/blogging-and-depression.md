@@ -16,6 +16,12 @@ Running can reduce stress, depression, and anxiety.'
 
 (_source:_ [_https://www.webmd.com/fitness-exercise/how-running-affects-mental-health#1_](https://www.webmd.com/fitness-exercise/how-running-affects-mental-health#1 "https://www.webmd.com/fitness-exercise/how-running-affects-mental-health#1"))
 
+## Runners High
+
+Whether that's due to my medication or I'm not exerting myself enough I don't know. But I've never experienced the sensation
+
+The burst of endorphins released during exercise has long been referred to the as the runners high
+
 Links
 
 [Bank of Erin](https://bankoferin.com/ "Bank of Erin")
