@@ -12,7 +12,7 @@ I still consider myself new to running. I started about a year ago. Then injured
 As with all things I threw myself into it 110%. Running every other day, Not exercising
 
 #### 8 The Things I Wish I Knew  
-
+<p></p>
 
 
 1. Slow and Steady
@@ -22,12 +22,12 @@ As with all things I threw myself into it 110%. Running every other day, Not exe
 5. Listen To Your Body
 6. Never Compare
 7. Drink Plenty of Water
-8. Wear The Right Shoes
+8. Wear The Right Shoes...
 
 ##### Things I wish I knew before I started running
 
 
-**Slow And Steady**
+...**Slow And Steady**
 
 The worst thing I did was go off like a greyhound, and keep going until it felt like my lungs would explode. Following the couch to 5k app with a mixture of running/walking helped slow down my pace. Which brings me onto...
 
@@ -71,6 +71,7 @@ Chances are you aren't wearing suitable shoes. Those ratty old trainers aren't d
 
 
 #### So What did I learn?
+<br><br>
 
 Don't try to do too much too soon. Listen to your what your body is telling you. Don't try to run through the pain. The risk of injury is very real. Try and get proper running shoes as soon as possible. And run for yourself. You can't run too slow. But you can run too fast and risk injury. And stay hydrated!
 
