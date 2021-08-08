@@ -13,6 +13,7 @@ As with all things I threw myself into it 110%. Running every other day, Not exe
 
 #### 8 The Things I Wish I Knew
 
+
 1. Slow and Steady
 2. There's Nothing Wrong With Walking
 3. Rest Days Matter
@@ -23,6 +24,7 @@ As with all things I threw myself into it 110%. Running every other day, Not exe
 8. Wear The Right Shoes
 
 ##### Things I wish I knew before I started running
+
 
 1. **Slow And Steady**
 
@@ -65,6 +67,7 @@ Dehydration negatively affects your running performance and slows your ability t
 * Your toes burn after a run
 
 Chances are you aren't wearing suitable shoes. Those ratty old trainers aren't doing your feet any favours. I ended up going to a dedicates running shop. They analysed my running style and picked out a pair of running shoes. And they've been my best investment yet in my running journey.
+
 
 #### So What did I learn?
 
