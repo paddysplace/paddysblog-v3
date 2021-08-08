@@ -11,7 +11,7 @@ I still consider myself new to running. I started about a year ago. Then injured
 
 As with all things I threw myself into it 110%. Running every other day, Not exercising
 
-#### 8 The Things I Wish I Knew  
+##### 8 The Things I Wish I Knew  
 <br>
 1. Slow and Steady
 2. There's Nothing Wrong With Walking
@@ -20,9 +20,9 @@ As with all things I threw myself into it 110%. Running every other day, Not exe
 5. Listen To Your Body
 6. Never Compare
 7. Drink Plenty of Water
-8. Wear The Right Shoes<br>
+8. Wear The Right Shoes
 
-##### Things I wish I knew before I started running
+###### Things I wish I knew before I started running
 <br>
 **Slow And Steady**
 

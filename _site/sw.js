@@ -1,8 +1,8 @@
-const version = '20210804073327';
+const version = '20210808051344';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/cakes/2021/08/03/discworld-cake-tuesday/","/caturday/2021/07/31/top-terry-pratchett-caturday-quotes/","/personal/2021/07/29/i-ve-tried-nothing-and-i-m-all-out-of-ideas/","/cakes/2021/07/27/cake-tuesday/","/personal/2021/07/26/20-things-i-d-tell-20-year-old-me/","/demotivation/2021/07/26/demotivation-monday/","/c25k/depression/2021/07/24/are-we-nearly-there-yet/","/quotes/2021/07/22/pale-blue-dot/","/depression/2021/07/19/sharing-a-post/","/quotes/depression/2021/07/18/quote-of-the-day/","/categories/","/contact/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/home-page-icon-0.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/running/c25k/2021/08/06/things-i-wish-i-knew-before-i-started-running/","/cakes/2021/08/03/discworld-cake-tuesday/","/caturday/2021/07/31/top-terry-pratchett-caturday-quotes/","/personal/2021/07/29/i-ve-tried-nothing-and-i-m-all-out-of-ideas/","/cakes/2021/07/27/cake-tuesday/","/personal/2021/07/26/20-things-i-d-tell-20-year-old-me/","/demotivation/2021/07/26/demotivation-monday/","/c25k/depression/2021/07/24/are-we-nearly-there-yet/","/quotes/2021/07/22/pale-blue-dot/","/depression/2021/07/19/sharing-a-post/","/categories/","/contact/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/home-page-icon-0.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
