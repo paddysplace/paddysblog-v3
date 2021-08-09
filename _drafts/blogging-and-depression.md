@@ -23,13 +23,23 @@ This burst of endorphins released during exercise has long been referred to as t
 
 ### Walk, Jog or Run?
 
-Whatever you feel comfortable doing. There is no right answer. We're all different, so do what makes you happy. There's no point running if you're not enjoying it. There's nothing to gain from pushing yourself, and punishing yourself. 
+Whatever you feel comfortable doing. There is no right answer. We're all different, so do what makes you happy. There's no point running if you're not enjoying it. There's nothing to gain from pushing yourself, and punishing yourself.
 
 ### So Now What?
 
-This was going to be the one. The blog post where I'll do a ton of research. Write a ten thousand word essay on the benefits of running and accelerate my blog into the stratosphere. 
+This was going to be the one. The blog post where I'll do a ton of research. Write a ten thousand word essay on the benefits of running and accelerate my blog into the stratosphere.
 
-The trouble is. I've burnt out already. I started off fairly well in the opening 
+The trouble is. I've burnt out already. I started off fairly well in the opening few lines. Full of enthusiasm. My brain bursting with ideas. But then.
+
+The trouble with mental health is that the highs can feel wonderful. But the lows. 
+
+I guess blog writing can be very similar to running, or any exercise. It's fun in the beginning. You're on the path to something new. Something exciting. This is it. I can see the future now. I'll be blogging every moment i can. I'll be reading about blogging, listening to podcasts, checking out apps, templates, tips and tricks. And now you're going 100mph. This is great. But then. 
+
+It's like somebody flicks a switch. The fire dims, the excitement wanes. You have no energy for this. You think back to when it was exciting and new. And the depression deepens. 
+
+#### It's all about the pace
+
+It's too easy to get caught up in it all. Pacing is everything. 
 
 Links
 
