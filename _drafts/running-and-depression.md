@@ -7,11 +7,9 @@ date:
 ---
 # Running For Your Mental Health
 
-Running regularly at a moderate or vigorous level can improve your mental health.
-
-Running outside has other benefits, like lessening feelings of loneliness and isolation.
-
-Running can reduce stress, depression, and anxiety.
+* Running regularly at a moderate or vigorous level can improve your mental health.
+* Running outside has other benefits, like lessening feelings of loneliness and isolation.
+* Running can reduce stress, depression, and anxiety.
 
 ### Runners High
 
@@ -39,11 +37,13 @@ Whatever you feel comfortable doing. There is no right answer. We're all differe
 
 [Top Running Blogs: A Comprehensive List of Who’s Sharing Great Content](https://www.runtothefinish.com/top-running-blogs/)
 
+***
+
 ### So Now What?
 
 This was going to be the one. The blog post where I'll do a ton of research. Write a ten thousand word essay on the benefits of running and accelerate my blog into the stratosphere.
 
-The trouble is. I've burnt out already. I started off fairly well in the opening few lines. Full of enthusiasm. My brain bursting with ideas. But then.
+The trouble is. I've burnt out already. I started fairly well in the opening few lines. Full of enthusiasm. My brain bursting with ideas. But then.
 
 The trouble with mental health is that the highs can feel wonderful. But the lows.
 
@@ -75,7 +75,7 @@ But as I get older. As I realise time is marching on I can't let the part of me 
 
 So I'm rebelling against my own brain. I'm forcing myself out of my comfort zone. Going somewhere new. On my own. I keep my head down and follow my exercise plan. And then go home. It's a start I guess. 
 
-Hiding behind a screen, posting on social media where the barrier between me and other people is the internet. I need to move that to the next level and into the real world. That's where the mental health and running pairing will be strong enough to get me through the absolute terror my brain will be going through. Hopefully. Eventually.
+Hiding behind a screen, posting on social media, the barrier between me and other people is the internet. I need to move that to the next level and into the real world. That's where the mental health and running pairing will be strong enough to get me through the absolute terror my brain will be going through. Hopefully. Eventually.
 
 I've signed up. Registered my name. Got my parkrun barcode. I just need to...go. I could walk the entire 5k if I wanted. I could walk, with the occasional jog. I can go round the course however I want to. No judgment.
 
@@ -84,6 +84,8 @@ I've signed up. Registered my name. Got my parkrun barcode. I just need to...go.
 I'm using the excuse that I'm not ready. I'm not fit enough. I need to finish the coach to 5k plan. I need to feel all the aches and pains I'm feeling aren't going to be made worse.
 
 So I don't go. Like every morning I wake up at 6 am and stare out the window. Willing myself to get up and go for a run. And nearly every morning I just lay there staring out the window until it's too late. Until I have to get ready for work. Oh well, maybe tomorrow.
+
+***
 
 #### Conclusion
 
