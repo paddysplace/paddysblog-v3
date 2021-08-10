@@ -51,7 +51,7 @@ I have a goal in sight. Parkrun. Surrounded by dozens of strangers all excited t
 
 Every evening I have the intention of going for a run in the morning. I only ever run in the morning. There's hardly any people about, it's cooler, I'm more awake. There's hardly any people about. The thought of people seeing me running sends shivers down my spine. If I could afford a treadmill and had the space I'd probably run more often. I could hide away in my own four walls and run to my heart's content. 
 
-Which is completely at odds with aiming for a parkrun where I'll be surrounded by....people! But like-minded people. Maybe even people like me. People who will understand. My people. Hopefully. 
+Which is completely at odds with aiming for a parkrun where I'll be surrounded by....people! But like-minded people. Maybe even people like me. People who _will_ understand. My people. Hopefully. 
 
 The conflict between wanting to belong to a group and shun everybody has been going on my whole life. And hiding away has always won.
 
@@ -61,7 +61,9 @@ Oh this bit is easy. Hiding behind a screen, posting on social media where the b
 
 I've signed up. Registered my name. Got my parkrun barcode. I just need to...go. I could walk the entire 5k if I wanted. I could walk, with the occasional jog. I can go round the course however I want to. No judgement. 
 
-So why don't I? I'm using the excuse that I'm not ready. I'm not fit enough. I need to finish the coach to 5k plan. I need to feel all the aches and pains I'm feeling aren't going to be made worse.
+**So why don't I?** 
+
+I'm using the excuse that I'm not ready. I'm not fit enough. I need to finish the coach to 5k plan. I need to feel all the aches and pains I'm feeling aren't going to be made worse.
 
 So I don't go. Like every morning I wake up at 6am and stare out the window. Willing myself to get up and go for a run. And nearly every morning I just lay there staring out the window until it's too late. Until I have to get ready for work. Oh well, maybe tomorrow. 
 
