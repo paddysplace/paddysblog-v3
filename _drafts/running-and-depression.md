@@ -87,4 +87,4 @@ It's a bit of an uphill battle, to be honest. And one I'm still fighting. There'
 
 I wish I had some otherwise unsaid words of profound wisdom.
 
-But I don't. I'll just end as all good blog posts do. With a list of links. Hopefully, somebody will find these useful if they're ever unfortunate enough to come across this in a Google search.
+But I don't. 
