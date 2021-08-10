@@ -25,9 +25,19 @@ This burst of endorphins released during exercise has long been referred to as t
 
 ### Walk, Jog or Run?
 
-Whatever you feel comfortable doing. There is no right answer. We're all different, so do what makes you happy. There's no point running if you're not enjoying it. There's nothing to gain from pushing yourself, and punishing yourself. I think the point is. To just keep moving. Get the blood pumping, the muscles working. And, if possible, to be in the company of like minded people.
+Whatever you feel comfortable doing. There is no right answer. We're all different, so do what makes you happy. There's no point running if you're not enjoying it. There's nothing to gain from pushing yourself and punishing yourself. I think the point is. To just keep moving. Get the blood pumping, the muscles working. And, if possible, to be in the company of like-minded people.
 
-And then...
+##### Links
+
+[The Truth Behind ‘Runner’s High’ and Other Mental Benefits of Running]()
+
+[What Are Endorphins](https://science.howstuffworks.com/life/inside-the-mind/emotions/endorphins.htm)
+
+[Parkrun UK](https://www.parkrun.org.uk/)
+
+[Jogging versus walking: what's best for you?](https://www.saga.co.uk/magazine/health-wellbeing/exercise-fitness/jogging-vs-walking)
+
+[Top Running Blogs: A Comprehensive List of Who’s Sharing Great Content](https://www.runtothefinish.com/top-running-blogs/)
 
 ### So Now What?
 
@@ -37,7 +47,7 @@ The trouble is. I've burnt out already. I started off fairly well in the opening
 
 The trouble with mental health is that the highs can feel wonderful. But the lows.
 
-I guess blog writing can be very similar to running, or any exercise. It's fun in the beginning. You're on the path to something new. Something exciting. This is it. I can see the future now. I'll be blogging every moment i can. I'll be reading about blogging, listening to podcasts, checking out apps, templates, tips, and tricks. And now you're going 100mph. This is great. But then...
+I guess blog writing can be very similar to running, or any exercise. It's fun in the beginning. You're on the path to something new. Something exciting. This is it. I can see the future now. I'll be blogging every moment I can. I'll be reading about blogging, listening to podcasts, checking out apps, templates, tips, and tricks. And now you're going 100mph. This is great. But then...
 
 It's like somebody flicks a switch. The fire dims, the excitement wanes. You have no energy for this. You think back to when it was exciting and new. And the depression deepens. It's worse if this newfound passion injures you in the process.
 
@@ -78,15 +88,3 @@ It's a bit of an uphill battle, to be honest. And one I'm still fighting. There'
 I wish I had some otherwise unsaid words of profound wisdom.
 
 But I don't. I'll just end as all good blog posts do. With a list of links. Hopefully, somebody will find these useful if they're ever unfortunate enough to come across this in a Google search.
-
-##### Links
-
-[The Truth Behind ‘Runner’s High’ and Other Mental Benefits of Running]()
-
-[What Are Endorphins](https://science.howstuffworks.com/life/inside-the-mind/emotions/endorphins.htm)
-
-[Parkrun UK](https://www.parkrun.org.uk/)
-
-[Jogging versus walking: what's best for you?](https://www.saga.co.uk/magazine/health-wellbeing/exercise-fitness/jogging-vs-walking)
-
-[Top Running Blogs: A Comprehensive List of Who’s Sharing Great Content](https://www.runtothefinish.com/top-running-blogs/)
