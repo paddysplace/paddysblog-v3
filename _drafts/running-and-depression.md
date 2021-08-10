@@ -2,7 +2,7 @@
 feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1628437656/banners/Running_snym2y.png
 title: Running For Your Mental Health
 categories: mental-health running c25k
-date: 
+date: 2021-08-13 01:00
 
 ---
 # Running For Your Mental Health
