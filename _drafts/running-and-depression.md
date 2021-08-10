@@ -83,7 +83,9 @@ So I don't go. Like every morning I wake up at 6 am and stare out the window. Wi
 
 Running is good for your mental health. But it's not a magic wand. You still have to push yourself just a little to get out the door and run. Or walk, or jog.
 
-It's a bit of an uphill battle, to be honest. And one I'm still fighting. There'll be a tipping point. As long as I'm patient. Don't lose focus. Don't try and push it along too fast. Just go at a steady pace and hopefully, the burnout won't happen. The runners high will come and that will propel you to the next run, and the next.
+![](https://res.cloudinary.com/paddysplace/image/upload/v1628621725/bf06a817714a1e19777d5bc064c9a136_szmipw.png)
+
+It's a bit of an uphill battle, to be honest. And one I'm still fighting. There'll be a tipping point. As long as I'm patient. Don't lose focus. Don't try and push it along too fast. Just go at a steady pace and hopefully, the burnout won't happen. The runners high will come and that will propel me to the next run, and the next.
 
 I wish I had some otherwise unsaid words of profound wisdom.
 
