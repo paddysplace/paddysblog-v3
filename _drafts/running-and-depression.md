@@ -21,9 +21,15 @@ Endorphins are the chemicals produced naturally by the nervous system to cope wi
 
 This burst of endorphins released during exercise has long been referred to as the runner's high.
 
+
+
+![](https://res.cloudinary.com/paddysplace/image/upload/v1628543585/blog/therapy-run_uiv073.jpg)
+
+
+
 ### Walk, Jog or Run?
 
-Whatever you feel comfortable doing. There is no right answer. We're all different, so do what makes you happy. There's no point running if you're not enjoying it. There's nothing to gain from pushing yourself, and punishing yourself.
+Whatever you feel comfortable doing. There is no right answer. We're all different, so do what makes you happy. There's no point running if you're not enjoying it. There's nothing to gain from pushing yourself, and punishing yourself. I think the point is. To just keep moving. Get the blood pumping, the muscles working. And, if possible, to be in the company of like minded people.
 
 And then...
 
@@ -35,11 +41,13 @@ The trouble is. I've burnt out already. I started off fairly well in the opening
 
 The trouble with mental health is that the highs can feel wonderful. But the lows.
 
-I guess blog writing can be very similar to running, or any exercise. It's fun in the beginning. You're on the path to something new. Something exciting. This is it. I can see the future now. I'll be blogging every moment i can. I'll be reading about blogging, listening to podcasts, checking out apps, templates, tips and tricks. And now you're going 100mph. This is great. But then.
-
-Just replace blogging with running.
+I guess blog writing can be very similar to running, or any exercise. It's fun in the beginning. You're on the path to something new. Something exciting. This is it. I can see the future now. I'll be blogging every moment i can. I'll be reading about blogging, listening to podcasts, checking out apps, templates, tips and tricks. And now you're going 100mph. This is great. But then...
 
 It's like somebody flicks a switch. The fire dims, the excitement wanes. You have no energy for this. You think back to when it was exciting and new. And the depression deepens. It's worse if this new found passion injures you in the process.
+
+Just replace blogging with running. Whether either pursuits will be a healthy outlet for me remains to be seen. But i'ts better to try and fail, than to no try at all. Isn't it?
+
+
 
 #### It's all about the pace
 
@@ -47,7 +55,7 @@ It's too easy to get caught up in it all. Pacing is everything. Focus is everyth
 
 I don't think I've really felt the runners high. At the moment every run is a reminder that I could injure myself again. The motivation has gone. I'm still trying to push myself to keep at it. I want to. I need to do this. I need something and this feels like it's it. It has to be. Because at the minute there is nothing else.
 
-I have a goal in sight. Parkrun. Surrounded by dozens of strangers all excited to be there. I'm hoping their enthusiasm will rub off on me. Maybe I'll even talk to somebody. Which is unlikely as I'm woefully introverted. Maybe that's will kick start the endorphins enough to make me feel alive. And to belong. Maybe despite everything i need other people. People to run with. People going through depression. People that might understand. Me. 
+I have a goal in sight. Parkrun. Surrounded by dozens of strangers all excited to be there. I'm hoping their enthusiasm will rub off on me. Maybe I'll even talk to somebody. Which is unlikely as I'm woefully introverted. Maybe that's will kick start the endorphins enough to make me feel alive. And to belong. Maybe despite everything, I need other people. People to run with. People going through depression. People that might understand. Me. I don't know if I'll ever get there. It's something to aim for. Something I'm trying to keep as a positive target to aim for. Even if I end up walking half of the 5k then I'll consider that a win. 
 
 #### Conclusion
 
@@ -59,6 +67,10 @@ I wish I had some otherwise unsaid words of profound wisdom.
 
 But I don't. I'll just end, like all good blog posts do. With a list of links. Hopefully somebody will find these useful if they're ever unfortunate enough to come across this in a Google search. 
 
-Links
+##### Links
 
-[Bank of Erin](https://bankoferin.com/ "Bank of Erin")
+[]: https://www.hopkinsmedicine.org/health/wellness-and-prevention/the-truth-behind-runners-high-and-other-mental-benefits-of-running	"The Truth Behind ‘Runner’s High’ and Other Mental Benefits of Running"
+[]: https://science.howstuffworks.com/life/inside-the-mind/emotions/endorphins.htm	"What Are Endorphins"
+[]: https://www.parkrun.org.uk/	"Parkrun UK"
+[]: https://www.saga.co.uk/magazine/health-wellbeing/exercise-fitness/jogging-vs-walking	"Jogging versus walking: what&#39;s best for you?"
+[]: https://www.runtothefinish.com/top-running-blogs/	"Top Running Blogs: A Comprehensive List of Who’s Sharing Great Content"
