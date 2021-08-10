@@ -7,6 +7,8 @@ date:
 ---
 # Running For Your Mental Health
 
+Aside from the physical health benefits of [cardiovascular exercise](https://www.verywellfit.com/everything-you-need-to-know-about-cardio-1229553) like running, there are mental health benefits of running as well:
+
 * Running regularly at a moderate or vigorous level can improve your mental health.
 * Running outside has other benefits, like lessening feelings of loneliness and isolation.
 * Running can reduce stress, depression, and anxiety.
