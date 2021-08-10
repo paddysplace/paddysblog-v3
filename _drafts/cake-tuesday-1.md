@@ -11,4 +11,4 @@ Going back further in time for this one. The first-ever Cake Tuesday. Not the fi
 
 It's my birthday cake from FIFTEEN YEARS AGO!! That can't be right. When I was THIRTY SIX. Oh god I feel so old!
 
-Anyway, here's the original post from 2006. I think I need to go for a lay down now.
+Anyway, [here's](https://www.archives.thisispaddys.space/2006/05/02/cake-tuesday/ "Cake Tuesday") the original post from 2006. I think I need to go for a lay down now.
