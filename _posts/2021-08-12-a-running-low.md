@@ -21,7 +21,7 @@ I'd sat on the leg press. Whoever used it before me was pressing 100kg. I reduce
 
 But it's not that easy when you're surrounded by thieves. And I let them take everything. 
 
-The depression and self loathing can be crippling. Once it sets in that's no going back. I had to get out of the gym quickly after that. 
+The depression and self loathing can be crippling. Once it sets in there's no going back. I had to get out of the gym quickly after that. 
 
 Maybe tomorrow will be better. Maybe if I wasn't in there on my own I wouldn't feel so vulnerable. But the dark side of me pushes people away. Or just won't let them get close. 
 
