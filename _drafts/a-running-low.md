@@ -2,7 +2,7 @@
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 title: " Running..."
 categories: running
-date: 
+date: 2021-08-12 01:00
 
 ---
 ## Feeling the runner's ~~high~~ low
