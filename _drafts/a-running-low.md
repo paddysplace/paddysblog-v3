@@ -13,6 +13,14 @@ I saw myself in the mirror whilst on the leg press.
 
 This, skinny old man stared back at me. With legs that looked like they could snap and a tired old face. 
 
-I couldn't run because of leg pain. I just felt useless. I'm failing c25k and I'm doubting my ability to run. I'm twice the age of everybody around me. And feeling every one of those years. 
+I couldn't run because of leg pain. I just felt useless. I'm failing c25k and I'm doubting my ability to run. I'm twice the age of everybody around me. And feeling every one of those years.
 
-Maybe tomorrow will be better.
+I'd sat on the leg press. Whoever used it before me was pressing 100kg. I reduced that down to a pitiful 25kg. I shouldn't do that. I shouldn't compare. 
+
+"_Comparison is the thief of joy_"
+
+But it's not that easy when you're surrounded by thieves. And I let them take everything. 
+
+The depression and self loathing can be crippling. Once it sets in that's no going back. I had to get out of the gym quickly after that. 
+
+Maybe tomorrow will be better. Maybe if I wasn't in there on my own I wouldn't feel so vulnerable. But the dark side of me pushes people away. Or just doesn't let them get close. 
