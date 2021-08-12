@@ -1,6 +1,6 @@
 ---
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
-title: A Running Low
+title: " Running ~~High~~ Low"
 categories: running
 date: 
 
