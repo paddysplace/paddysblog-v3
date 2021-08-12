@@ -7,6 +7,8 @@ date: 2021-08-12 01:00
 ---
 ## Feeling the runner's ~~high~~ low
 
+![](https://res.cloudinary.com/paddysplace/image/upload/v1628777017/c25k/fitbitshare_982746285_2_t9ypfr.png)
+
 I should be happy. But I felt like a fraud. I felt out of place at the gym. I felt like I didn't belong. It's nobody's fault except my own. Nobody shamed me. Looked down on me. Ridiculed me. I did that to myself.
 
 I saw myself in the mirror whilst on the leg press.
