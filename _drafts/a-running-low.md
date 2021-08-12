@@ -24,3 +24,11 @@ But it's not that easy when you're surrounded by thieves. And I let them take ev
 The depression and self loathing can be crippling. Once it sets in that's no going back. I had to get out of the gym quickly after that. 
 
 Maybe tomorrow will be better. Maybe if I wasn't in there on my own I wouldn't feel so vulnerable. But the dark side of me pushes people away. Or just won't let them get close. 
+
+I guess I have to expect the lows with the highs. I'm still nervous after recovering from my knee injury. Probably too nervous. My left calf is now painful when I run. 
+
+I'm not going to give up after falling at the first hurdle. But it came as a shock. Maybe every runner goes through this. Maybe this isn't as unusual as I think it is. 
+
+I wonder if professional athletes have these moments. These thoughts. These feelings of runners low. 
+
+Maybe tomorrow will be better. 
