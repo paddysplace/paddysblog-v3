@@ -7,13 +7,13 @@ date:
 ---
 ## Feeling the runner's ~~high~~ low
 
-I should be happy. But I felt like a fraud today. I felt out of place at the gym. 
+I should be happy. But I felt like a fraud. I felt out of place at the gym. I felt like I didn't belong. It's nobody's fault except my own. Nobody shamed me. Looked down on me. Ridiculed me. I did that to myself.
 
 I saw myself in the mirror whilst on the leg press. 
 
-This, skinny old man stared back at me. With legs that looked like they could snap and a tired old face. 
+This, skinny old man stared back at me. With legs that looked like they could snap and a tired old face. No muscles to be seen. How could I ever think I'd belong in a place like this.
 
-I couldn't run because of leg pain. I just felt useless. I'm failing c25k and I'm doubting my ability to run. I'm twice the age of everybody around me. And feeling every one of those years.
+I couldn't run because of leg pain. I just felt useless. I'm doubting my ability to run. I'm twice the age of everybody around me. And feeling every one of those years.
 
 I'd sat on the leg press. Whoever used it before me was pressing 100kg. I reduced that down to a pitiful 25kg. I shouldn't do that. I shouldn't compare. 
 
@@ -23,4 +23,4 @@ But it's not that easy when you're surrounded by thieves. And I let them take ev
 
 The depression and self loathing can be crippling. Once it sets in that's no going back. I had to get out of the gym quickly after that. 
 
-Maybe tomorrow will be better. Maybe if I wasn't in there on my own I wouldn't feel so vulnerable. But the dark side of me pushes people away. Or just doesn't let them get close. 
+Maybe tomorrow will be better. Maybe if I wasn't in there on my own I wouldn't feel so vulnerable. But the dark side of me pushes people away. Or just won't let them get close. 
