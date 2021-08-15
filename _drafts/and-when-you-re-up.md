@@ -11,6 +11,10 @@ What a difference 48 hours can make..After my previous visit to the gym went [ho
 
 I wasn't going to let the gym win. It wasn't going to take the enjoyment out of my training. Mentally I went in ready to face my fears. And, I won. It, admittedly, did help by the fact the gym was fairly empty. The people in there were the same age, or older than me. I felt relaxed. All the tension that had melted away.   
 
+#### Game Plan
+
+I was ready. I had a game plan.
+
 ##### Related Articles  
 
 ###### [How to Survive Going to the Gym When You’re an Introvert](https://introvertdear.com/news/how-to-survive-going-to-the-gym-when-youre-an-introvert/ "How to Survive Going to the Gym When You’re an Introvert")
@@ -18,3 +22,5 @@ I wasn't going to let the gym win. It wasn't going to take the enjoyment out of 
 [An Introvert's Guide To Enjoying Exercise – By Introverts](https://www.huffingtonpost.co.uk/entry/an-introverts-guide-to-enjoying-exercise-by-introverts_uk_5e299860c5b6779e9c2e8159 "An Introvert's Guide To Enjoying Exercise – By Introverts")
 
 [12 Ways to Go From Newbie to Gym Regular](https://www.self.com/story/gym-tips-to-gain-confidence "12 Ways to Go From Newbie to Gym Regular")
+
+[7 Simple And Effective Tips To Boost Confidence In The Gym](https://femalefitnesssystems.com/improve-confidence-in-the-gym/ "7 Simple And Effective Tips To Boost Confidence In The Gym")
