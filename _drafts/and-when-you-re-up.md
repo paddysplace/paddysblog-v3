@@ -5,7 +5,7 @@ categories: running
 date: 
 
 ---
-What a difference 48 hours can make..After my previous visit to the gym went [horribly badly](https://blog.thisispaddys.space/running/2021/08/12/a-running-low/ "Running low"), friday did a complete 180 and restored faith in myself
+What a difference 48 hours can make..After my previous visit to the gym went [horribly badly](https://blog.thisispaddys.space/running/2021/08/12/a-running-low/ "Running low"), friday did a complete 180 and restored faith in myself.
 
 > “No one can make you feel inferior without your consent.” – Eleanor Roosevelt
 
@@ -49,19 +49,39 @@ You don't need to spend all day in the gym. You don't need to be there for hours
 
 ###### Related Article
 
+[The 9-Minute Strength Workout](https://www.nytimes.com/guides/well/strength-training-plyometrics "The 9-Minute Strength Workout")
+
 ##### Wear ~~headphones~~ earbuds
 
-This is a no-brainer. The music at the gym is terrible. You can be in your own little bubble. People will usually not try and talk to you. It's easier to just blank out the entire world around you.
+This is a no-brainer. The music at the gym is terrible. You can be in your own little bubble. People will usually not try and talk to you. It's easier to just blank out the entire world around you. Also you're not left with your own thoughts bouncing around in your head.
 
 Bluetooth earbuds are ideal for wearing to the gym. Don't use headphones, they tend to be bulky in size and don’t stay put.
 
 ###### Related Article
 
-[5 Reasons You Should Take Wireless Earbuds to the GymGo In Off Peak Hours](https://blog.taotronics.com/headphones/5-reasons-take-wireless-earbuds-to-gym/ "5 Reasons You Should Take Wireless Earbuds to the Gym")
+[5 Reasons You Should Take Wireless Earbuds to the Gym](https://blog.taotronics.com/headphones/5-reasons-take-wireless-earbuds-to-gym/ "5 Reasons You Should Take Wireless Earbuds to the Gym")
+
+##### Go In Off Peak Hours
+
+This might vary from gym to gym. But generally speaking:
+
+* Weekdays around lunch or in the early afternoon.
+* Late at night (past 8 pm if your gym is still open)
+* Weekends in the mid to late afternoon.
+
+I usually go after work at about 5pm and it can be very hit and miss as to how busy the gym is.
 
 ###### Related Article
 
-##### Links  
+[When Is The Best Time To Exercise?](https://www.fitnessfirst.co.uk/inside-track/fitness/when-is-the-best-time-to-exercise/ "When Is The Best Time To Exercise?")
+
+Stick at it and the gym is something you get used to. Countless others have been in your shoes, myself included. Think nothing of any judgment you think may be occurring because everyone else will almost certainly be doing their own thing. Easier said than done, but it will happen at some point.
+
+Be kind to yourself. If it's too busy go again another day. Just do a short workout. The more you go the more the gym will become a familiar place. You'll start seeing the same faces regularly. 
+
+And chances are some of those familiar faces will be feeling exactly the same as you.
+
+#### Links  
 
 ###### [How to Survive Going to the Gym When You’re an Introvert](https://introvertdear.com/news/how-to-survive-going-to-the-gym-when-youre-an-introvert/ "How to Survive Going to the Gym When You’re an Introvert")
 
