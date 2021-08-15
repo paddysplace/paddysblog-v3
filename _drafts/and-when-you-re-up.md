@@ -11,10 +11,11 @@ What a difference 48 hours can make..After my previous visit to the gym went [ho
 
 I wasn't going to let the gym win. It wasn't going to take the enjoyment out of my training. Mentally I went in ready to face my fears. And, I won. It, admittedly, did help by the fact the gym was fairly empty. The people in there were the same age, or older than me. I felt relaxed. All the tension that had melted away.  
 
-* **Remember, they’re not judging you**
+* **Nobody is judging you**
+* **Don’t compare yourself to others**
 * **Keep your workouts short**
 * **Do what you love**
-* **Bring your headphones  
+* **Wear headphones  
   ** 
 
 #### Game Plan
