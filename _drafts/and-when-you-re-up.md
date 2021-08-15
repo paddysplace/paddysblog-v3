@@ -5,7 +5,9 @@ categories: running
 date: 
 
 ---
-What a difference 48 hours can make..After my previous visit to the gym went [horribly badly](https://blog.thisispaddys.space/running/2021/08/12/a-running-low/ "Running low"), today's did a complete 180 and restored faith in myself
+What a difference 48 hours can make..After my previous visit to the gym went [horribly badly](https://blog.thisispaddys.space/running/2021/08/12/a-running-low/ "Running low"), friday did a complete 180 and restored faith in myself
+
+> “No one can make you feel inferior without your consent.” – Eleanor Roosevelt
 
 I wasn't going to let the gym win. It wasn't going to take the enjoyment out of my training. Mentally I went in ready to face my fears. And, I won. It, admittedly, did help by the fact the gym was fairly empty. The people in there were the same age, or older than me. I felt relaxed. All the tension that had melted away.   
 
