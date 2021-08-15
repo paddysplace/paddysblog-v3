@@ -16,3 +16,5 @@ I wasn't going to let the gym win. It wasn't going to take the enjoyment out of 
 ###### [How to Survive Going to the Gym When You’re an Introvert](https://introvertdear.com/news/how-to-survive-going-to-the-gym-when-youre-an-introvert/ "How to Survive Going to the Gym When You’re an Introvert")
 
 [An Introvert's Guide To Enjoying Exercise – By Introverts](https://www.huffingtonpost.co.uk/entry/an-introverts-guide-to-enjoying-exercise-by-introverts_uk_5e299860c5b6779e9c2e8159 "An Introvert's Guide To Enjoying Exercise – By Introverts")
+
+[12 Ways to Go From Newbie to Gym Regular](https://www.self.com/story/gym-tips-to-gain-confidence "12 Ways to Go From Newbie to Gym Regular")
