@@ -53,7 +53,7 @@ You don't need to spend all day in the gym. You don't need to be there for hours
 
 This is a no-brainer. The music at the gym is terrible. You can be in your own little bubble. People will usually not try and talk to you. It's easier to just blank out the entire world around you.
 
-Bluetooth earbuds are ideal for wearing to the gym.
+Bluetooth earbuds are ideal for wearing to the gym. Don't use headphones, they tend to be bulky in size and don’t stay put.
 
 ###### Related Article
 
