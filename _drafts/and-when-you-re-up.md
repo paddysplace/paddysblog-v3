@@ -15,14 +15,47 @@ I wasn't going to let the gym win. It wasn't going to take the enjoyment out of 
 * **Don’t compare yourself to others**
 * **Keep your workouts short**
 * **Do what you love**
-* **Wear headphones  
+* **Wear headphones**
+* **Go In Off Peak Hours  
   ** 
 
 #### Game Plan
 
-I was ready. I had a game plan.
+I was ready. I had a game plan. If the upstairs area with all the cross trainers, exercise bikes and treadmills was busy, i'd go downstairs and use the leg press and other torture devices. And visa versa. if both areas were busy i'd just go home and try again the next day.
 
-##### Related Articles  
+##### Nobody is Judging you
+
+Despite thinking you're going to be the center of attention, everybody is in their own little bubble trying to ignore everybody else. Chances are some are even as introverted as you.
+
+_Your of the gym and certainty that I was being judged came from my thoughts and beliefs—not theirs._
+
+###### Related Article
+
+[How to Stop Feeling Judged at the Gym: The Psychology of Gym Anxiety](http://routineexcellence.com/stop-feeling-judged-gym-psychology-gym-anxiety/ "How to Stop Feeling Judged at the Gym: The Psychology of Gym Anxiety")
+
+##### Don't Compare Yourself To Others
+
+This is a difficult, but important one. They aren't you, and you aren't them. You have to travel your own path.
+
+###### Related Article
+
+[Comparing Yourself to Others Won't Help You Meet Your Goals](https://www.self.com/story/comparing-yourself-to-others-wont-help-you-meet-your-goals "Comparing Yourself to Others Won't Help You Meet Your Goals")
+
+##### Keep your workouts short
+
+You don't need to spend all day in the gym. You don't need to be there for hours. An hour even. Small bursts of exercise throughout the day are just as effective as one longer session. Just 30 minutes of exercise is more than enough time to get in a great workout.
+
+###### Related Article
+
+##### Wear headphones
+
+###### Related Article
+
+##### Go In Off Peak Hours
+
+###### Related Article
+
+##### Links  
 
 ###### [How to Survive Going to the Gym When You’re an Introvert](https://introvertdear.com/news/how-to-survive-going-to-the-gym-when-youre-an-introvert/ "How to Survive Going to the Gym When You’re an Introvert")
 
