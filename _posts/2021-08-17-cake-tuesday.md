@@ -1,8 +1,8 @@
 ---
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 title: Cake Tuesday
-categories: cake-tuesday
-date: 
+categories: cakes
+date: 2021-08-17 01:00
 
 ---
 My late father always loved the cakes Zara made. The ideas she came up with. The little things she got in the designs. The accuracy of the details. I think this was one of his favourites. Anything that involved his beloved rats always went down well.
