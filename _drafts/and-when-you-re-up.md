@@ -1,6 +1,6 @@
 ---
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
-title: And When You're Up...
+title: When You're An Introvert At The Gym
 categories: running
 date: 2021-08-18 01:00
 
