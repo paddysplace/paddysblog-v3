@@ -9,7 +9,7 @@ What a difference 48 hours can make..After my previous visit to the gym went [ho
 
 > “No one can make you feel inferior without your consent.” – Eleanor Roosevelt
 
-I wasn't going to let the gym win. It wasn't going to take the enjoyment out of my training. Mentally I went in ready to face my fears. And, I won. It, admittedly, did help by the fact the gym was fairly empty. The people in there were the same age, or older than me. I felt relaxed. All the tension that I had melted away.  
+I wasn't going to let the gym win. It wasn't going to take the enjoyment out of my training. Mentally I went in ready to face my fears. And, I won. It, admittedly, did help by the fact the gym was fairly empty. The people in there were the same age, or older than me. I felt relaxed. All the tension that I had melted away.
 
 **Remember:**
 
@@ -18,8 +18,7 @@ I wasn't going to let the gym win. It wasn't going to take the enjoyment out of 
 * **Keep your workouts short**
 * **Do what you love**
 * **Wear headphones**
-* **Go In Off Peak Hours  
-  ** 
+* **Go In Off Peak Hours**
 
 #### Game Plan
 
@@ -77,11 +76,11 @@ I usually go after work at about 5pm and it can be very hit and miss as to how b
 
 Stick at it and the gym is something you get used to. Countless others have been in your shoes, myself included. Think nothing of any judgment you think may be occurring because everyone else will almost certainly be doing their own thing. Easier said than done, but it will happen at some point.
 
-Be kind to yourself. If it's too busy go again another day. Just do a short workout. The more you go the more the gym will become a familiar place. You'll start seeing the same faces regularly. 
+Be kind to yourself. If it's too busy go again another day. Just do a short workout. The more you go the more the gym will become a familiar place. You'll start seeing the same faces regularly.
 
 And chances are some of those familiar faces will be feeling exactly the same as you.
 
-#### Links  
+#### Links
 
 ###### [How to Survive Going to the Gym When You’re an Introvert](https://introvertdear.com/news/how-to-survive-going-to-the-gym-when-youre-an-introvert/ "How to Survive Going to the Gym When You’re an Introvert")
 
