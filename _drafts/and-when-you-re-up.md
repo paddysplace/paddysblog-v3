@@ -2,7 +2,7 @@
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
 title: And When You're Up...
 categories: running
-date: 
+date: 2021-08-18 01:00
 
 ---
 What a difference 48 hours can make..After my previous visit to the gym went [horribly badly](https://blog.thisispaddys.space/running/2021/08/12/a-running-low/ "Running low"), friday did a complete 180 and restored faith in myself.
