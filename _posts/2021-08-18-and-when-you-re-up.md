@@ -82,7 +82,7 @@ And chances are some of those familiar faces will be feeling exactly the same as
 
 #### Links
 
-###### [How to Survive Going to the Gym When You’re an Introvert](https://introvertdear.com/news/how-to-survive-going-to-the-gym-when-youre-an-introvert/ "How to Survive Going to the Gym When You’re an Introvert")
+#### [How to Survive Going to the Gym When You’re an Introvert](https://introvertdear.com/news/how-to-survive-going-to-the-gym-when-youre-an-introvert/ "How to Survive Going to the Gym When You’re an Introvert")
 
 [An Introvert's Guide To Enjoying Exercise – By Introverts](https://www.huffingtonpost.co.uk/entry/an-introverts-guide-to-enjoying-exercise-by-introverts_uk_5e299860c5b6779e9c2e8159 "An Introvert's Guide To Enjoying Exercise – By Introverts")
 
