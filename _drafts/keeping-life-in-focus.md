@@ -26,3 +26,19 @@ Why do I lose interest?
 How can I avoid this?
 
 Can I reignite the spark?
+
+The one slight silver lining in this very dark cloud is. Yes. Well, sometimes.
+
+I've lost interest in learning a new language due to frustration, only to try again months later. Oh I still got frustrated and dropped it again. 
+
+Ok, bad example. Web development. Got a few books, learned a bit of html, CSS and suchlike only to again drop it due to frustrations in my limited abilities.  But. I started again along with my new found love for blogging. 
+
+Blogging and web development seem to go well together. They feed off each other. And I'm finding that I'm still learning. Well. I was. Despite the initial excitement, I can feel the bubble starting to wobble. 
+
+I'm hoping it's a natural wobble that, probably, every blogger goes through. Especially in the early days. 
+
+I need to just go with the flow. I saying I've used throughout my life, but one I struggle with following the older I get. 
+
+Not every wobble ends in disaster. It's just a speed bump. I need to slow down. And just focus on the road ahead. Easier said than done. But one I need to learn from. 
+
+Otherwise, why bother starting anything new in the first place. 
