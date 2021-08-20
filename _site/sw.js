@@ -1,8 +1,8 @@
-const version = '20210810224127';
+const version = '20210820054421';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/cakes/cake-tuesday/2021/08/10/cake-tuesday-1/","/running/c25k/2021/08/06/things-i-wish-i-knew-before-i-started-running/","/cakes/2021/08/03/discworld-cake-tuesday/","/caturday/2021/07/31/top-terry-pratchett-caturday-quotes/","/personal/2021/07/29/i-ve-tried-nothing-and-i-m-all-out-of-ideas/","/cakes/2021/07/27/cake-tuesday/","/personal/2021/07/26/20-things-i-d-tell-20-year-old-me/","/demotivation/2021/07/26/demotivation-monday/","/c25k/depression/2021/07/24/are-we-nearly-there-yet/","/quotes/2021/07/22/pale-blue-dot/","/categories/","/contact/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/home-page-icon-0.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/running/mental-healrh/2021/08/20/when-you-re-an-introvert-at-the-gym-infographic/","/running/2021/08/18/and-when-you-re-up/","/cakes/2021/08/17/cake-tuesday/","/running/2021/08/12/a-running-low/","/cakes/cake-tuesday/2021/08/10/cake-tuesday-1/","/running/c25k/2021/08/06/things-i-wish-i-knew-before-i-started-running/","/cakes/2021/08/03/discworld-cake-tuesday/","/caturday/2021/07/31/top-terry-pratchett-caturday-quotes/","/personal/2021/07/29/i-ve-tried-nothing-and-i-m-all-out-of-ideas/","/cakes/2021/07/27/cake-tuesday/","/categories/","/contact/","/blog/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/blog/page9/","/assets/styles.css.map","https://www.freeiconspng.com/uploads/home-page-icon-0.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
