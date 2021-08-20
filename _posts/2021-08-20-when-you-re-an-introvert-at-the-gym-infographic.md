@@ -8,4 +8,4 @@ A tl;dr of my [previous post](https://blog.thisispaddys.space/running/2021/08/18
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1629433824/infographic/beinganintrovert_jmdgfn.jpg)
 
-Printable pdf can be found [here](../pdf.html)
+Printable pdf can be found [here](https://blog.thisispaddys.space/pdf.html)
