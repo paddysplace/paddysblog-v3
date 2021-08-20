@@ -1,8 +1,8 @@
 ---
 feature_image: https://picsum.photos/1400/600?grayscale&blur=2
-title: Keeping Life In Focus
+title: Keeping Life In Focus - Without Losing Interest
 categories: mental-health
-date: 
+date: 2021-08-20 01:00
 
 ---
 **Keeping Focus**
