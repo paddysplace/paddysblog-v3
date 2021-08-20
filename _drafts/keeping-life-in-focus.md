@@ -23,6 +23,8 @@ Maybe this post is just a rant about my current state of mind.
 
 **Why do I lose interest?**
 
+Related Article: [5 Things To Do If We Feel A Loss Of Interest](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.verywellmind.com/things-to-do-if-you-feel-a-loss-of-interest-5093337&ved=2ahUKEwjMpc2X2b_yAhXxRUEAHVsYCF0QFnoECAMQAQ&usg=AOvVaw3PF0UuDXSbe2yV_R51Z7p4)
+
 How can I avoid this?
 
 Can I reignite the spark?
@@ -42,5 +44,3 @@ I need to just go with the flow. I saying I've used throughout my life, but one 
 Not every wobble ends in disaster. It's just a speed bump. I need to slow down. And just focus on the road ahead. Easier said than done. But one I need to learn from.
 
 Otherwise, why bother starting anything new in the first place.
-
-Related Article: 5 Things To Do If We Feel A Loss Of Interest
