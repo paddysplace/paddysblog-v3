@@ -23,6 +23,10 @@ Maybe this post is just a rant about my current state of mind.
 
 **Why do I lose interest?**
 
+The quick answer would be depression. 
+
+But why do I get excited about something to begin with then? 
+
 **Can I reignite the spark?**
 
 Related Article: [5 Things To Do If We Feel A Loss Of Interest](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.verywellmind.com/things-to-do-if-you-feel-a-loss-of-interest-5093337&ved=2ahUKEwjMpc2X2b_yAhXxRUEAHVsYCF0QFnoECAMQAQ&usg=AOvVaw3PF0UuDXSbe2yV_R51Z7p4)
