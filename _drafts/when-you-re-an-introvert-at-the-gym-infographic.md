@@ -9,4 +9,4 @@ A tl;dr of my [previous post](https://blog.thisispaddys.space/running/2021/08/18
 
 <embed src="files/Brochure.pdf" type="application/pdf" width="100%" height="600px" />
 
-![](/v1629433824/infographic/beinganintrovert_jmdgfn.jpg)
+![](https://res.cloudinary.com/paddysplace/image/upload/v1629433824/infographic/beinganintrovert_jmdgfn.jpg)
