@@ -5,9 +5,9 @@ categories: mental-health
 date: 
 
 ---
-Keeping Focus
+**Keeping Focus**
 
-I can feel it happening. It's not like the bubble bursting. More like, it's slowly deflating.
+_I can feel it happening. It's not like the bubble bursting. More like, it's slowly deflating._
 
 I've gone from going flat out, foot to the floor. Pedal to the metal. Well, you get the idea.
 
@@ -67,7 +67,7 @@ Blogging and web development seem to go well together. They feed off each other.
 
 I'm hoping it's a natural wobble that, probably, every blogger goes through. Especially in the early days.
 
-I need to just go with the flow. I saying I've used throughout my life, but one I struggle with following the older I get.
+I need to just go with the flow. A saying I've used throughout my life, but one I struggle with listening to the older I get.
 
 **So what now?**
 
