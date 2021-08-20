@@ -14,3 +14,9 @@ I've gone from going flat out, foot to the floor. Pedal to the metal. Well, you 
 So why does it happen? What causes me to lose interest in something, anything. 
 
 There's no time scale. It can be days, weeks or months later. When I feel I'm getting into my stride. The slow hiss of escaping air from the bubble begins. Until it's deafening.
+
+Why do I lose interest?
+
+How can I avoid this?
+
+Can I reignite the spark?
