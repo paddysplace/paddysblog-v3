@@ -25,9 +25,33 @@ Maybe this post is just a rant about my current state of mind.
 
 The quick answer would be depression.
 
-Anhedonia comes up in Google searches. 
-
 But why do I get excited about something to begin with then?
+
+[Anhedonia](https://en.m.wikipedia.org/wiki/Anhedonia) comes up in Google searches. But doesn't really resonate with me. Because I still gets bursts of excitement and interest in things. No matter how short lived. 
+
+Low confidence. That paired with depression and a sense of belonging. The early stages of excitement in a new hobby, project or whatever it may be overrides the negative thoughts that whisper to me. 
+
+Any new interest is always exciting. You are on the new adventure of learning. You know nothing about this thing. Your brain is ready to be filled with new teachings. And then it starts to happen. The second I plateau the rot sets in. The frustration at my inability to progress. 
+
+Why did I start this in the first place?
+
+What was I thinking? 
+
+Did I actually think I could become good at this?
+
+I can't remember anything of what I've learned?
+
+This is hopeless. 
+
+You're hopeless. 
+
+I don't know how I could have found this interesting. 
+
+And then like somebody waving a magic wand the passion is gone. And I'm left looking at this interest like it's a strange, incomprehensible thing. Why would I be interested in that?
+
+Except I have this faint memory of finding it interesting at some point. 
+
+And that leaves me feeling sad. 
 
 **Can I reignite the spark?**
 
