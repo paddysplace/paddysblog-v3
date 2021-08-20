@@ -69,6 +69,8 @@ I'm hoping it's a natural wobble that, probably, every blogger goes through. Esp
 
 I need to just go with the flow. I saying I've used throughout my life, but one I struggle with following the older I get.
 
+**So what now?**
+
 Not every wobble ends in disaster. It's just a speed bump. I need to slow down. And just focus on the road ahead. Easier said than done. But one I need to learn from.
 
 Otherwise, why bother starting anything new in the first place.
