@@ -15,6 +15,8 @@ The latest shiny new thing in my life is starting to dull.  I don't know how it 
 
 So why does it happen? What causes me to lose interest in something, anything.
 
+<!--read more-->
+
 There's no time scale. It can be days, weeks or months later. When I feel I'm getting into my stride. The slow hiss of escaping air from the bubble begins. Until it's deafening.
 
 I'm not going to have any answers unfortunately. There are better bloggers, better Google searches you could do to find more accurate, relevant and interesting information than you'll find here.
@@ -27,31 +29,31 @@ The quick answer would be depression.
 
 But why do I get excited about something to begin with then?
 
-[Anhedonia](https://en.m.wikipedia.org/wiki/Anhedonia) comes up in Google searches. But doesn't really resonate with me. Because I still gets bursts of excitement and interest in things. No matter how short lived. 
+[Anhedonia](https://en.m.wikipedia.org/wiki/Anhedonia) comes up in Google searches. But doesn't really resonate with me. Because I still gets bursts of excitement and interest in things. No matter how short lived.
 
 Low confidence. That paired with depression and a sense of belonging. The early stages of excitement in a new hobby, project or whatever it may be overrides the negative thoughts that whisper to me. I have found my sense of purpose.
 
-Any new interest is always exciting. You are on the new adventure of learning. You know nothing about this thing. Your brain is ready to be filled with new teachings. And then it starts to happen. The second I plateau the rot sets in. The frustration at my inability to progress. 
+Any new interest is always exciting. You are on the new adventure of learning. You know nothing about this thing. Your brain is ready to be filled with new teachings. And then it starts to happen. The second I plateau the rot sets in. The frustration at my inability to progress.
 
 Why did I start this in the first place?
 
-What was I thinking? 
+What was I thinking?
 
 Did I actually think I could become good at this?
 
 I can't remember anything of what I've learned?
 
-This is hopeless. 
+This is hopeless.
 
-You're hopeless. 
+You're hopeless.
 
-I don't know how I could have found this interesting. 
+I don't know how I could have found this interesting.
 
 And then like somebody waving a magic wand the passion is gone. And I'm left looking at this interest like it's a strange, incomprehensible thing. Why would I be interested in that?
 
-Except I have this faint memory of finding it interesting at some point. 
+Except I have this faint memory of finding it interesting at some point.
 
-And that leaves me feeling sad. 
+And that leaves me feeling sad.
 
 **Can I reignite the spark?**
 
