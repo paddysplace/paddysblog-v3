@@ -23,9 +23,11 @@ Maybe this post is just a rant about my current state of mind.
 
 **Why do I lose interest?**
 
-The quick answer would be depression. 
+The quick answer would be depression.
 
-But why do I get excited about something to begin with then? 
+Anhedonia comes up in Google searches. 
+
+But why do I get excited about something to begin with then?
 
 **Can I reignite the spark?**
 
