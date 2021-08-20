@@ -29,7 +29,7 @@ But why do I get excited about something to begin with then?
 
 [Anhedonia](https://en.m.wikipedia.org/wiki/Anhedonia) comes up in Google searches. But doesn't really resonate with me. Because I still gets bursts of excitement and interest in things. No matter how short lived. 
 
-Low confidence. That paired with depression and a sense of belonging. The early stages of excitement in a new hobby, project or whatever it may be overrides the negative thoughts that whisper to me. 
+Low confidence. That paired with depression and a sense of belonging. The early stages of excitement in a new hobby, project or whatever it may be overrides the negative thoughts that whisper to me. I have found my sense of purpose.
 
 Any new interest is always exciting. You are on the new adventure of learning. You know nothing about this thing. Your brain is ready to be filled with new teachings. And then it starts to happen. The second I plateau the rot sets in. The frustration at my inability to progress. 
 
