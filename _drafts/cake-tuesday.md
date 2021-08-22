@@ -14,3 +14,5 @@ My mum always has been a fan of Wallace and Gromit. More of a Gromit fan to be h
 I think Zara could have made a W&G cake every year and my mum would still have loved it.
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1629624479/cake-tuesday/Wallace_and_Gromit_cake_ph0lgq.jpg)
+
+original post [here]( "https://www.archives.thisispaddys.space/cakes/2006/05/16/cake-tuesday_16/")
