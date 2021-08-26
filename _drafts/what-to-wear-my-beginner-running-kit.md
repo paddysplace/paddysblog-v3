@@ -5,7 +5,7 @@ categories: running c25k
 date: 
 
 ---
-What To Wear - My Beginner Running Kit
+#### What To Wear - My Beginner Running Kit
 
 I am by no means a 
 
@@ -19,16 +19,16 @@ Having said that.
 
 Hopefully this will help you if you are olin the same position as me at the beginning of your running journey. 
 
-t-shirt
+##### t-shirt
 
-shorts
+##### shorts
 
-socks
+##### socks
 
-extras
+##### extras
 
-water bottle
+##### water bottle
 
-compression socks
+##### compression socks
 
-earbuds
+##### earbuds
