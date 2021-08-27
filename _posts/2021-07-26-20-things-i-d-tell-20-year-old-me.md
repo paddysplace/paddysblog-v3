@@ -11,7 +11,7 @@ Looking back now I realise that was bullshit.
 
 I have a ton of regrets and wishing I'd looked before I leaped. And the further away from my youth I get the stronger these thoughts become.
 
-### ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250358/canva_assets/20_Things_I_d_Tell_20_Year_Old_Me_agchzz.png)
+### ![](https://res.cloudinary.com/paddysplace/image/upload/v1630102067/20_Things_omnhwt.png)
 
 1. **Take better care of yourself early on**
 
@@ -115,3 +115,7 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
     ![](https://res.cloudinary.com/paddysplace/image/upload/v1627250397/blog/undraw/undraw_exams_g4ow_jd1g7g.png)
 
     You will flourish at some and fail at others. Just enjoy the moment and don't dwell on the ones that didn't work out. It's the journey that's important. You'll plateau, become frustrated and discard interests as you go through life. It's ok. Just keep moving forward. Do what makes you happy whether it lasts 5 days or 5 years. Just enjoy the moment.
+    
+![](https://res.cloudinary.com/paddysplace/image/upload/v1627250358/canva_assets/20_Things_I_d_Tell_20_Year_Old_Me_agchzz.png)
+
+Just enjoy the moment.
