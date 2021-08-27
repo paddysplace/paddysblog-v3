@@ -42,9 +42,12 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
  9. **Don’t worry about what others think or about what they are doing**
 
     Don't look at other people and compare what they have or want to you. You are not them and they are not you. They may drive a big, fast car and you trundle around in a 1L city car. They may earn more money, be healthier, fitter It doesn't matter. Do not compare yourself to others.
-10. **It’s ok to get out of your comfort zone sometimes**
+
 
 ![](https://res.cloudinary.com/paddysplace/image/upload/v1630105679/blog/20_Things_insta_l1aadf.png)
+
+10. **It’s ok to get out of your comfort zone sometimes**
+
 
     Actually it's probably healthy. Don't stay in your own safe little bubble. You'll become more confident and able to cope with the world around you if you live in it just a little sometimes.
 11. **You are not your thoughts, you are the thinker of your thoughts**
@@ -69,8 +72,10 @@ I have a ton of regrets and wishing I'd looked before I leaped. And the further 
 17. **Don't try too hard with people**
 
    You'll push people away. You'll lose good friends and ruin relationships before they have time to flourish. Saying less can be so much more effective than constantly speaking your mind.
+   
 18. **stand up and speak out for what’s important to you** Going slightly at odds with the list point. If you are passionate about an issue. You have a voice. Use it to help others. Don't be preachy or ram it down people's throats. Learn how to engage in debate to get your point across. It's ok to disagree with someone. Don't just go with the popular opinion.
-19. **You are not the only person in the world who feels this way**
+19. 
+20. **You are not the only person in the world who feels this way**
 
    It often feels like it at times. But whatever you're going through is not unique to you. Personal, yes. Share your thoughts and worries with like-minded people. Staying in your own head just makes the echo chamber resonate louder.
 20. **Don't stop learning** Ever. Don't stop reading. Try new interests. Some will stick, some will drop off.
