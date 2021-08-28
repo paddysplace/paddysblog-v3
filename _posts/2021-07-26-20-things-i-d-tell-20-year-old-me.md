@@ -31,7 +31,7 @@ And stay away from workplace relationships.
 
 They never work out.
 
-* **Work to live don’t live to work** Not that I really need to tell myself this. Work isn't everything. Don't take the baggage of work home with you. And don't stick with a job because you think you should.
+**Work to live don’t live to work** Not that I really need to tell myself this. Work isn't everything. Don't take the baggage of work home with you. And don't stick with a job because you think you should.
 
 **Don’t take things so personally** You need a thicker skin. Do not take whatever anybody says to heart. People will lie, manipulate, dictate and criticise anything about you. 
 
