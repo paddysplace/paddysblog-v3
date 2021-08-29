@@ -27,7 +27,7 @@ Loss of motivation
 
 At least that's how I see it. That's the feeling I get. It's not a feeling of sadness. It's nothing. The feeling of emptiness and life's borders growing beyond your grasp.
 
-When it comes to motivation. No one will give it to you, but yourself.
+So here I sit. Thinking of all the jobs I should be doing. All the chores around the house. It's not laziness stopping me. It's something else. 
 
 Accountability buddy
 
@@ -35,4 +35,8 @@ Apps for motivation
 
 Online help
 
+What's Wrong With Me?
+
 Related Posts
+
+_When it comes to motivation. No one will give it to you, but yourself_
