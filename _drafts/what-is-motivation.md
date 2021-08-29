@@ -20,3 +20,13 @@ It is not some separate entity making every decision without your input. What mo
 Motivation is the desire to achieve a goal, which is a lot more complicated than a single process. 
 
 _Why you are motivated depends entirely on what the change means to you, why you want to pursue the change, what supports you can access to sustain the change, etc._
+
+Loss of motivation
+
+Accountability buddy
+
+Apps for motivation
+
+Online help
+
+Related Posts
