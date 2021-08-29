@@ -29,6 +29,8 @@ At least that's how I see it. That's the feeling I get. It's not a feeling of sa
 
 So here I sit. Thinking of all the jobs I should be doing. All the chores around the house. It's not laziness stopping me. It's something else. 
 
+Motivation is an in-house job; it begins and ends with you. Even if you fail to realize it, motivation is something you can control, an internal job. No one gets to determine your level of motivation. You need to take responsibility for your motivation – every second, every minute, hourly and daily. 
+
 Accountability buddy
 
 Apps for motivation
