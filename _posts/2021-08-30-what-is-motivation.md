@@ -49,7 +49,7 @@ The feeling of emptiness and life's borders growing beyond your grasp.
 
 So here I sit. Thinking of all the jobs I should be doing. All the chores around the house. It's not laziness stopping me. It's something else.
 
-Oh, some of it is down to depression. Lack of self-worth, lack of vitamin d even. There’s also a growing list of But here I sit. Thinking of everything and feeling nothing.
+Oh, some of it is down to depression. Lack of self-worth, lack of [vitamin D](https://r3bilt.com/2020/06/20/the-importance-of-vitamin-d/ "Vitamin D"), even. But here I sit. Thinking of everything and feeling nothing.
 
 Motivation is an in-house job; it begins and ends with you. Even if you fail to realize it, motivation is something you can control, an internal job. No one gets to determine your level of motivation. You need to take responsibility for your motivation – every second, every minute, hourly and daily.
 
