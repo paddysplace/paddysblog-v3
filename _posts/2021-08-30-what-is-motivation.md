@@ -1,6 +1,6 @@
 ---
-feature_image: https://res.cloudinary.com/paddysplace/image/upload/c_scale,h_600,w_1400/v1630328676/banners/Why_You_re_Feeling_Unmotivated_Right_Now_xgovff.png
-title: What Is Motivation
+feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1630330616/banners/Why_You_re_Feeling_Unmotivated_Right_Now_yz76a4.png
+title: Why You're Feeling Unmotivated
 categories: mental-health
 date: 2021-08-30 01:00
 
