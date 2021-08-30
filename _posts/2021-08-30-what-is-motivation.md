@@ -21,6 +21,8 @@ And then I woke up the next morning.
 
 This is a bit of a follow-up post from my [previous one](https://blog.thisispaddys.space/mental-health/2021/08/20/keeping-life-in-focus/ "Losing Focus"). To be honest, the two posts should be amalgamated. Which would up my word count as well!
 
+![](https://res.cloudinary.com/paddysplace/image/upload/v1630331390/banners/Understanding_motivation_is_one_of_the_most_important_things_we_can_do_in_our_lives_because_it_has_such_a_bearing_on_why_we_do_the_things_we_do_and_whether_we_enjoy_them_or_not._Clayton_Christensen_sdlofz.png)
+
 ##### What Is Motivation?
 
 According to[ Wikipedia](https://en.m.wikipedia.org/wiki/Motivation):
