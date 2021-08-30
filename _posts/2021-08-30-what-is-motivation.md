@@ -76,8 +76,7 @@ One reason you might have a lack of motivation is that you're leaving things too
 
 [https://www.deanbokhari.com/lack-of-motivation/](https://www.the-well.com/editorial/what-to-do-when-you-feel-unmotivated "https://www.the-well.com/editorial/what-to-do-when-you-feel-unmotivated")
 
-\**  
-Accountability buddy**
+**Accountability buddy**
 
 In short, accountability buddies are the people you ask to peer pressure you into doing the things you don’t want to.
 
@@ -109,7 +108,7 @@ An accountability buddy is someone with whom you establish an ongoing, reciproca
 
 ##### Behaviour Change Apps (Paid)
 
-* [GetMotivatedBuddies.com](https://www.getmotivatedbuddies.com/) (woohoo!) - get up to 4 accountability partners from around the world, join groups and challenges. - system to test habits and self-directed plans. - Find buddies by keywords, age, gender, timezone, employment, habits. - get auto-matched every 72 hours. - find others who use your apps, go to your school, gym or organization - keep your anonymity. - Buddy chat and group chat - See each other's check-ins and plans. - import other people's plans. - get email and sms reminders and triggers. - get positive reinforcement for all activities on your plans.
+* [GetMotivatedBuddies.com](https://www.getmotivatedbuddies.com/) (woohoo!) - get up to 4 accountability partners from around the world, join groups and challenges. - system to test habits and self-directed plans. - Find buddies by keywords, age, gender, timezone, employment, habits. - get auto-matched every 72 hours. - find others who use your apps, go to your school, gym or organization - keep your anonymity. - Buddy chat and group chat - See each other's check-ins and plans. - import other people's plans. - get email and SMS reminders and triggers. - get positive reinforcement for all activities on your plans.
 * [focusmate.com](https://www.focusmate.com/) - watch and be watched by another person over video
 * [getsupporti.com](https://getsupporti.com/) - accountability partner app that finds you mutual support buddies
 * [goalio.co](https://www.goalio.co/) - reward yourself for completing goals
@@ -118,7 +117,7 @@ An accountability buddy is someone with whom you establish an ongoing, reciproca
 ##### Other Resources
 
 * [HitTheGoal](https://discord.gg/VENeGMT) - Discord community for group accountability
-* [https://actionbuddy.io/blog/accountability-partner](https://www.the-well.com/editorial/what-to-do-when-you-feel-unmotivated "https://www.the-well.com/editorial/what-to-do-when-you-feel-unmotivated") (14 day free trial)
+* [https://actionbuddy.io/blog/accountability-partner](https://www.the-well.com/editorial/what-to-do-when-you-feel-unmotivated "https://www.the-well.com/editorial/what-to-do-when-you-feel-unmotivated") (14-day free trial)
 
 _When it comes to motivation. No one will give it to you, but yourself._
 
