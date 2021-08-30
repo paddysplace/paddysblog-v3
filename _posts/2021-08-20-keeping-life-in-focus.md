@@ -1,5 +1,5 @@
 ---
-feature_image: https://picsum.photos/1400/600?grayscale&blur=2
+feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1630330329/banners/keeping_life_in_focus_fhund5.png
 title: Keeping Life In Focus - Without Losing Interest
 categories: mental-health
 date: 2021-08-20 02:00
