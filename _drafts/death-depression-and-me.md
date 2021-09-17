@@ -1,5 +1,5 @@
 ---
-feature_image: https://picsum.photos/1400/600?grayscale&blur=2
+feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1631868779/blog/death_depression_and_me.png
 title: Death, Depression and Me
 categories: mental-health
 date: 2021-09-17 01:00
