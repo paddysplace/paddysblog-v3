@@ -36,6 +36,8 @@ Except I used to cut my arms open. Not anywhere where people would see. And not 
 
 I had friends, I was reasonably outgoing. I never considered that despite all this that I had depression and the cutting was my release mechanism.
 
+![](https://res.cloudinary.com/paddysplace/image/upload/v1631869686/h_rollins_quote_wskg4w.png)
+
 #### What Do You Want To Be When You Grow Up
 
 From school careers advice to college lecturers. The future and how I would fit into it was, it felt like, always being thrown at me. And the answer always was with a shrug of the shoulders. I didn’t expect my life to go anywhere. I never intended to live long enough to have to worry about such things.
