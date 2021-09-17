@@ -7,7 +7,8 @@ date: 2021-09-17 01:00
 ---
 ### Death, Depression and Me
 
-How’s that for a catchy title?
+“Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.”  
+― **Henry Wadsworth Longfellow**
 
 By the time I'd met my now wife I'd experienced twelve deaths. Losing family and friends has gone a long way to shaping me into the person I am today. She'd experienced one.
 
