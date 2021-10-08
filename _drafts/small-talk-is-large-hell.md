@@ -1,5 +1,5 @@
 ---
-feature_image: https://picsum.photos/1400/600?grayscale&blur=2
+feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1633694443/Small%20Talk.png
 title: Small Talk Is Large Hell
 categories: ''
 date: 
