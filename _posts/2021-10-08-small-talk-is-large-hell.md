@@ -5,7 +5,7 @@ categories: personal
 date: 2021-10-08 01:00
 
 ---
-**Words Don't Come Easy To Me**
+#### **Words Don't Come Easy To Me**
 
 I've been a quiet person my entire life.
 
@@ -33,7 +33,7 @@ So yeah, now I have an issue with talking and a chip on my shoulder regarding li
 
 My wife can, and has, literally talked for two hours solid about her day. It made my head hurt.
 
-**I enjoy the silence**.
+#### **I enjoy the silence**.
 
 Some people find it uncomfortable so have to fill the void with noise.
 
@@ -125,9 +125,9 @@ But that's all it takes sometimes.
 
 The group L7 I accidentally called LZ. And my mate called me a dickhead.
 
-And that is all it took.
+##### And that is all it took.
 
-Something inside my brain went click. And the snowball began to roll and roll.
+Something inside my brain went _click_. And the snowball began to roll and roll.
 
 If I could go the rest of my life communicating with people via a keyboard I'd be happy.
 
