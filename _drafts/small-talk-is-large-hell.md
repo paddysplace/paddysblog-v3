@@ -17,6 +17,10 @@ And that's not just down to the alcohol consumption.
 
 Quiet, shy, reserved, introverted, withdrawn. All words have ,at some point, been used to describe me.
 
+> There is something joyous about not talking.
+>
+> Ingmar Bergman
+
 I just don't know what people find to talk about so much.
 
 Some of my problem comes down to being deaf in one ear. In a noisy room I can hardly hear a conversation and that makes it much harder for me to be even willing to try and talk. I'm so aware of my slight disability, a bit too ashamed to mention it for fear of hearing the usual "WHAT" "PARDON" jokes. Oh hilarious.
