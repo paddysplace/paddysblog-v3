@@ -1,8 +1,8 @@
 ---
 feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1633694443/Small%20Talk.png
 title: Small Talk Is Large Hell
-categories: ''
-date: 
+categories: personal
+date: 2021-10-08 01:00
 
 ---
 **Words Don't Come Easy To Me**
