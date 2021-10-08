@@ -1,6 +1,6 @@
 ---
-feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1633694443/Small%20Talk.png
-title: Small Talk Is Large Hell
+feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1633699729/20211008_142744_0000_jxpk7f.png
+title: Small Talk Is Largely Hell
 categories: personal
 date: 2021-10-08 01:00
 
