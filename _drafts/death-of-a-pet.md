@@ -1,5 +1,5 @@
 ---
-feature_image: https://picsum.photos/1400/600?grayscale&blur=2
+feature_image: https://res.cloudinary.com/paddysplace/image/upload/v1635574536/blog/Death%20of%20a%20pet.png
 title: Death Of A Pet
 categories: personal grief
 date: 2021-09-30 01:00
