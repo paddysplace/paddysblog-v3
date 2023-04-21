@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "This is another test?"
-date:   2023-04-20 16:44:01 +
+title: This is another test?
+date: '2023-04-20 16:44:01 +'
 categories: personal
+published: true
 ---
 
 ## A New Post
