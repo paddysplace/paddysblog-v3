@@ -1,10 +1,10 @@
 ---
+published: true
 layout: post
-title:  "This is a test"
-date:   2023-07-10 16:44:01 +
-categories: personal
+date: '2023-07-10 21:11:00 +0000'
+categories: test
 ---
 
 
-Lets see what we can do
+## Lets see what we can do
 
